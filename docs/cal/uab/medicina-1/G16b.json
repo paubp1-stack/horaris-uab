@@ -1,0 +1,5923 @@
+{
+ "titulacio": "Grau en Medicina · 1r curs (Bellaterra)",
+ "grup": "Subgrup G16b (grup 104)",
+ "sessions": [
+  {
+   "dia": "2026-09-07",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a86053fb9fe6c9b2f90dd7b2eaa415e2c6b5660c",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-07",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T2 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a0dc3513f3a0bbcc7f780cd9a6b66ed8e816b496",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T2 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-07",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8644acbbf0dd9d6e9f1ea87b63a1ad8cb9a08739",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-07",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5612cd1cd71c9fbc6ac6c0ece6d273dcaacfec2d",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-08",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7b684b667fd47babca33e89a50af6fa720975111",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-08",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "81909f1ce61e784381ffe971508319d8f2656661",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-08",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "78e51b5459c4ca084071727668d629b12eabedfd",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-08",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "ICS-T Aula: M5-003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c2235a99e0c4116a2c1e65a1f888df70aee77b30",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: ICS-T Aula: M5-003"
+  },
+  {
+   "dia": "2026-09-09",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "289b76cee668f38f327a22daf8ed166842400e9b",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-09",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ff4b39f3a2742b49b5656e0e2388e72dac1e67f2",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-09",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "628e116690111d4e9b308080f0e07963fc096e4d",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-09",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4692114ee1fc7be6e4c20a57a488d88b16c30a96",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-10",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T2 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8c834773b196947a083424ddf10ca53a2fef3d83",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T2 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-10",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1ca33a53491a03e61ba64fd503f8a24d12a24617",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-10",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8154267d023e8e977e6def22214c21ee9ff52bee",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-10",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "13c297e4c426d4ea4b5eeadf6a566a1b9895e60c",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-14",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T2 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "f7429d99b69e03f08f5e1db222c748717c53eab8",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T2 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-14",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "63a852b897bfcbe0d768a1e70b364214e81175c1",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-14",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT1BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT1",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "f5d6e2ae74114c7c3984f00a054e7f6bbfec3351",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT1",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT1BQ"
+  },
+  {
+   "dia": "2026-09-15",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T2 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "21fc8c47a9d86791b657c3b92cdcaca70f3548c6",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T2 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-15",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1f574094a2e345e92e355a8ae3431875f4cd4862",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-15",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c90110241c9d4b58320ffe237bfe055e89390342",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-15",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c9d098a20777c203ef9494daf3dd67e49ef7a27f",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-16",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "14ab1e4364208b5945e5c66628ae9be20e7f9e44",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-16",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "398ba76a3833ffeddccbf8e4e19869a8945bd097",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-16",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "87514d0d7ed886c635c4b2468f7f59645b7a9647",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-16",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8802b96e3053daf995e109c4ea89a2a6220389dc",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-17",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "BFS2-G 16b M2-001",
+   "assignatura": "BFS2-G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "1bc1ae47e3f3c26a43396786fcba0f3832ca6715",
+   "titol": "BFS2-G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS2-G 16b M2-001"
+  },
+  {
+   "dia": "2026-09-17",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "53266f3c2a037ae4d8a256da54c3e662632a06a9",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-17",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7dd189edb74e6a929fac91310f0c4cec275cbaa3",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-17",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "03ec40e5904b7ec598ef90a164fb581d46f3e795",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-18",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "ab5718dbe18b0531bd8b547f30b820fa29fa8179",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-18",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT2BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT2",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "f54d9e2f925ecec1e4565a9d383a39fa4b2f5d06",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT2",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT2BQ"
+  },
+  {
+   "dia": "2026-09-21",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5532594976ba7c3592d33fd6d20f629238ab0742",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-21",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "35fd1f3cd7c7591ec5657749cb0710837c81e91b",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-21",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T1 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "94a0a70a67dfc912e73c71740796693f40e79851",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T1 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-21",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4dccddfeb7fa797a1f71de6aeb0041f9edcd0dfc",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-22",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T2 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5d0097eab5f0aa52d2c799ceb8a0bf473c8aec1e",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T2 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-22",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "db20b164d9e5fca9396514db3b6f9838543000c2",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-22",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f085b9597bb460675df1c07e6091985b09c35825",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-22",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5c3721fed574297b5b20b3df8dff3a34583c3680",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-23",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T1 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ebaf048a7a862be2c4bc775e788fc1fbf1715b2f",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T1 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-23",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3e41a786e54ada1639f17252172751b5a8244de5",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-23",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "47ca6e763dcbdd52a9a68bcb8e38631bd3f4532b",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-23",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "199145657a091717c7ecfcb141419c41fc840a9b",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-25",
+   "inici": "11:00",
+   "fi": "13:30",
+   "text": "BF-PLAB1-G 16b M0-111B",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M0-111",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "4905ff853852a2b911a5aac18ea1248f5d510e5e",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M0-111\nText del PDF: BF-PLAB1-G 16b M0-111B"
+  },
+  {
+   "dia": "2026-09-25",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e9ac958b3d08140276549e4cd04b1033d364115c",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-25",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "00de009fd32f6bba571c54f3882596fb0adb5e29",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-25",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T1 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d4d20e89f443038c9fd9fc2a71e8094d73dfefd7",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T1 Aula M5-003"
+  },
+  {
+   "dia": "2026-09-25",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "aafc541c3a5ebab59880029576d3a9716849421a",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-28",
+   "inici": "10:30",
+   "fi": "13:30",
+   "text": "BF-PLAB2-G 16 Lab M6-117",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M6-117",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "a5587ee0d019065a50bdc239dec29f7ec0056922",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M6-117\nText del PDF: BF-PLAB2-G 16 Lab M6-117"
+  },
+  {
+   "dia": "2026-09-28",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6a1be220f01e43f58f497b2f52202d32b1a9b9fc",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-28",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "30e7e2a7c55f91e3c5a46a133aa979dd8c7691ef",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-29",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "476c2b582b2972182cc940b761e84b35836177da",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-29",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "588a89a2b5a37f2a0a5e37e8a3cc6de479fb1c90",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-29",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d50dc3932d369e6e47d88f79c40849ca76cb5ccc",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-30",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "6a1c23e3725183b9494971291252066b0943a6c5",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-09-30",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "d228679dd8b66e12045cf1f0076e11366033a192",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-09-30",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT3BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT3",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "b03448fd5a138ef0cd9d2d13aee28557617be527",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT3",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT3BQ"
+  },
+  {
+   "dia": "2026-10-01",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "66cbb9ed618d405d76c2a1375aeb42ea35b52c5f",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-01",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7d5bf311a0597a231d2626c7906ce1393550aedd",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-01",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "PCA1-T Aula M5-003",
+   "assignatura": "Pràctica Clínica Assistencial I",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5ac0f2ba22a9856c734e321a5037b234e00129ba",
+   "titol": "Pràctica Clínica Assistencial I · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: PCA1-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-02",
+   "inici": "09:00",
+   "fi": "13:30",
+   "text": "BQ-PLAB1-G 15b M4-002 (9-10.30) i Lab M6- 125 BQ-PLAB1-G 16b M4-002 (9-10.30) i Lab M6- 125",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-002",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "1f95f67ea6fc1eb87020d687e0424267d8945274",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-002\nText del PDF: BQ-PLAB1-G 15b M4-002 (9-10.30) i Lab M6- 125 BQ-PLAB1-G 16b M4-002 (9-10.30) i Lab M6- 125"
+  },
+  {
+   "dia": "2026-10-02",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0f9045b678560177b8feb2beb73581d855a5be6f",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-02",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0b85f2459da561e172ff4feb7dde944ff2820fc2",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-05",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-001",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-001",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "3bca0cf31702c6e9d1ace42aca6b6124b7683b71",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-001\nText del PDF: BC-T Aula M5-001"
+  },
+  {
+   "dia": "2026-10-05",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-001",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-001",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "92c02c97ca260f68ec78908ab7398c5b066430a0",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001"
+  },
+  {
+   "dia": "2026-10-05",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT4BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT4",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "3f46519682fa805e2bf071d18b86a919df995c88",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT4",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT4BQ"
+  },
+  {
+   "dia": "2026-10-06",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "b3305e0b1b668c82c4bed363b3bb2dde91c0be3e",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-06",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e9d828812f52f6d2d0a7cee6771e3d123e215e21",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-06",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "db16a2d922473c79d45b3af66691858c4cb9cca5",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-06",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a3c5d7ac7c0f59a5d03795ee20a206e7f6d6545a",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-07",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4d664d280bad4d3037f25e3526192cf6bc46e2d2",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-07",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "cf4e325ded789309f90d8386ebf68094adaab415",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-07",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d12f8c1de8849a54cd056345e73069ddef5d1cb7",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-07",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BF-T3 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "787d8adce8bdb196ec01877e57afca03be5a4d45",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T3 Aula M5-003"
+  },
+  {
+   "dia": "2026-10-08",
+   "inici": "11:00",
+   "fi": "13:30",
+   "text": "BF-PLAB1-G 16b M0-111B",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M0-111",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "7c42d99ae8fe52e2ec6e967fd41ab9bf6c08a71e",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M0-111\nText del PDF: BF-PLAB1-G 16b M0-111B"
+  },
+  {
+   "dia": "2026-10-08",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "fbe90bd11887c41a4cd7870af0be7fa30f0096fe",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-08",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "df69398beab6c901064c905999dfbf20af4e4c07",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-08",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c640985de19e14480a3042ea87cd1815b7b75712",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-08",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BF-T3 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4b698a089af5bfb4a9a8b3e9a024029c96db97b3",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T3 Aula M5-003"
+  },
+  {
+   "dia": "2026-10-09",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "285e14d7f1a7c340b146d53f868c19cb321268f7",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-09",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5d41e26cea110634f02aab195fb60845ce968451",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-09",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T3 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "094e621c61fc1a6b353edee4810a06e8b4d89760",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T3 Aula M5-003"
+  },
+  {
+   "dia": "2026-10-13",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f46a14df1afc38499910fd424c0fdc54c8793a46",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-13",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T3 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "49a6c100d580614936a124e46e23587bbb980a24",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T3 Aula M5-003"
+  },
+  {
+   "dia": "2026-10-13",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c78558427289e307b8e114d74fedbd666c2d94cc",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-13",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "05892b4e251662c0e10a221c56479ec21598745a",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-14",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "BFS1-G 16b M2-001",
+   "assignatura": "BFS1-G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "b6c04420ca666ebd07f9ca6f4ba41981439cffae",
+   "titol": "BFS1-G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS1-G 16b M2-001"
+  },
+  {
+   "dia": "2026-10-14",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "71691cd9dfc26498aa056f324b45c022d85d74df",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-14",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1af53c96f7e7c5ad2762f5961a927233851805e8",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-14",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7360b24df9b05497190cb65328405b0e097b0cc6",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-15",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "B P1-P2- G8 M5-005",
+   "assignatura": "B P1-P2- G8 M5-005",
+   "tipus": "",
+   "aula": "M5-005",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "1b77ed4c2088e642e9a471cb3a86efa356ff2aa0",
+   "titol": "B P1-P2- G8 M5-005",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-005\nText del PDF: B P1-P2- G8 M5-005"
+  },
+  {
+   "dia": "2026-10-15",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5c54f6e237dc32486c03007edc63d6d36e6e3ff4",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-15",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8257fe2e912d993bc27937a23d5bd9760ccaa92e",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-15",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "53055d4070a6c84ea5af47648f89a03295fd63ac",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-16",
+   "inici": "09:30",
+   "fi": "13:30",
+   "text": "BC-PLAB1-G 16b Lab M4-013",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-013",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "2dcfdcd14ebfba3a7d01c369ecf3c9bdfb2aceef",
+   "titol": "Biologia Cel·lular · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-013\nText del PDF: BC-PLAB1-G 16b Lab M4-013"
+  },
+  {
+   "dia": "2026-10-16",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0c8b7070e00d90d777200607c641bf6ab4ecca01",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-16",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2f26d933c0e21982f37a3e1a956c4069c31793c0",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-16",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c01bb114d3d084f1de4b17504e22496f11d240e8",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-19",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "2a299a4fbd9187034c78d59031347285eb52e2b2",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-19",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "80eb95282e3bee73133a28fe44ec3cdd12084a3a",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-19",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT5BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT5",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "425329d5991d5d5a333fcf1901779c6cb8598c06",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT5",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT5BQ"
+  },
+  {
+   "dia": "2026-10-20",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "364ac53018e8100964f4ee6d19a8bbfb3db564ca",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-20",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c04aa25db3a8ab8c6b976b611c0c8b48b22f2065",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-21",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "BFS3-G 16b M0-127.6",
+   "assignatura": "BFS3-G 16b M0-127.6",
+   "tipus": "",
+   "aula": "M0-127",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "703ff5691eb3100a4e19855d0735e7e3762fa0f7",
+   "titol": "BFS3-G 16b M0-127.6",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M0-127\nText del PDF: BFS3-G 16b M0-127.6"
+  },
+  {
+   "dia": "2026-10-21",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "c835bd23a5a9f1b0361f35f3dd9a4ab2fddcc2b3",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-10-21",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "103a1cd8a80a944174813a680ede6c90b4036906",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-10-21",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT6BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT6",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "dd646bb18744d38b081c517c52ec71917519673e",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT6",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT6BQ"
+  },
+  {
+   "dia": "2026-10-26",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "102954 - Biologia Cel.lular Examen 1r Parcial 15-19h M5/001, M5/003, M5/007, M2/002, M3- 217, M3-216",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5/001, M5/003, M5/007, M2/002, M3-217, M3-216",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6a8a1ce79b86d60e0a114016e4d448139731201a",
+   "titol": "Biologia Cel·lular · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/003, M5/007, M2/002, M3-217, M3-216\nText del PDF: 102954 - Biologia Cel.lular Examen 1r Parcial 15-19h M5/001, M5/003, M5/007, M2/002, M3- 217, M3-216"
+  },
+  {
+   "dia": "2026-10-29",
+   "inici": "09:00",
+   "fi": "14:00",
+   "text": "103592 - Anatomia Humana: Generalitats i Aparell Locomotor Examen 1r Parcial 9-14h M5/001, M5/003, M5/007, M2/002, M5- 005, M4-014",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5/001, M5/003, M5/007, M2/002, M5-005, M4-014",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "cb3426fe44bfbe678c273a65e1660e32c562584d",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/003, M5/007, M2/002, M5-005, M4-014\nText del PDF: 103592 - Anatomia Humana: Generalitats i Aparell Locomotor Examen 1r Parcial 9-14h M5/001, M5/003, M5/007, M2/002, M5- 005, M4-014"
+  },
+  {
+   "dia": "2026-11-02",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "EXAMEN PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 15-19 h",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Examen",
+   "aula": "M5-01, M5-03, M5-07, M2-02, M5-05, M5-06",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "fbe73e45b268913d73f5096b2d2b4abefd3f146b",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Examen",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-01, M5-03, M5-07, M2-02, M5-05, M5-06\nText del PDF: EXAMEN PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 15-19 h"
+  },
+  {
+   "dia": "2026-11-03",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c5fdcc52a87f128ea800292610b4c894d6efd4ea",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-03",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "99db930a2b66a33e318d0732fdeb9126155268a9",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-03",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7ce538cdf3690bb3d6e4e4c4d63d8794d8184571",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-04",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "aa8d857ef330b73520e1c6919113954b7dc0d288",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-04",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "02bb478590c37297675188592bdf9f7c0fa452a9",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-04",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a5d16c33d3954ee2df6339bbaa68d89244915159",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-05",
+   "inici": "11:00",
+   "fi": "13:00",
+   "text": "BC-SEM1-G 15b M4-001 BC-SEM1-G 16b M2-001",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Seminari",
+   "aula": "M4-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "1323f1a3bf0157b4b3c700eb2ae045fdc26f1bc8",
+   "titol": "Biologia Cel·lular · Seminari",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-001\nText del PDF: BC-SEM1-G 15b M4-001 BC-SEM1-G 16b M2-001"
+  },
+  {
+   "dia": "2026-11-05",
+   "inici": "13:00",
+   "fi": "15:00",
+   "text": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "assignatura": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "9f087b8a1b783264898896dd24d781a0290e7d2f",
+   "titol": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: ACTIVITAT CAMPUS 13:00- 15:00h"
+  },
+  {
+   "dia": "2026-11-05",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1ab6f7ebad428539748f88339448eeb36b199fc2",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-05",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "59599446523ff2f383f48fcb8eefaf5e3c4f8e95",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-05",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4acbebb1c8cde7bdf7b90ae1e42bbe5c67395355",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-06",
+   "inici": "09:30",
+   "fi": "13:30",
+   "text": "BC-PLAB2-G 16b Lab M4-013",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-013",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "51c6a5aa7b034cbbb8f07d8c8cdc5808e8bcadfb",
+   "titol": "Biologia Cel·lular · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-013\nText del PDF: BC-PLAB2-G 16b Lab M4-013"
+  },
+  {
+   "dia": "2026-11-06",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7c8a90a6ea7429af1184d5b815151d0646fc2000",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-06",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a5c8276163b6e7d2035f6271025759eaff17c316",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-06",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "fbfaf337dbb427d1381356cb97dd035dcc8ab1d2",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-09",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "ce81c4a84ab9063927505c475154b832af76222e",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-09",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "aa8575248fd193b78a6cda7c16e7aeee80fa472e",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-09",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT7BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT7",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "aa48e0cfcdcba6eb47faf28d0709e0bbf6306a53",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT7",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT7BQ"
+  },
+  {
+   "dia": "2026-11-10",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "14adef61ce6e23c92eb29954aa2ab86157322a9c",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-10",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "b1c34e47fad91fdeb606bdf019bb30d286552551",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-10",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2d221d8297c0ace150a4a43b7723a98ebb65e0a8",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-11-11",
+   "inici": "09:00",
+   "fi": "20:00",
+   "text": "PCA I VISITA ALS CAP 1",
+   "assignatura": "Pràctica Clínica Assistencial I",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "2d616d55dd9db70e72861d4bf292b602e08bcef0",
+   "titol": "Pràctica Clínica Assistencial I",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: PCA I VISITA ALS CAP 1"
+  },
+  {
+   "dia": "2026-11-12",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "BC-SEM2-G 16b M4-001",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Seminari",
+   "aula": "M4-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "3b4be1e0edccef4ddc517ca8d0e50c7540c3536e",
+   "titol": "Biologia Cel·lular · Seminari",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-001\nText del PDF: BC-SEM2-G 16b M4-001"
+  },
+  {
+   "dia": "2026-11-12",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7bb727df7410e3868be8647bc258d118a4aa9f5d",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-11-12",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "45cd305e50c024c53368787d801cafda5aedfe98",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-12",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "04d0deb58814bff1d867c3939fb488fd54432cf4",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-13",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4b4d2ad681eae0e38fd0e7efb7b573afec7a9f44",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-13",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "bfd09e12dbbbef0f0dc934504bb694ea15742160",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-13",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8d751dd692c9ae0f38db8ec2666af83b8698e895",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-17",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula M5-003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "b22756cb45d8ce87f0f5e7c679f80d76c639ae85",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BE-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-17",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0b6af57974a43b3bd34e609f297a44ea5677ba12",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-17",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "de82c6af6a78041ff89a1c76c9afecafc0b374d9",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-17",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e6045c1ed5289c78a235414cf238e66961182050",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-18",
+   "inici": "09:00",
+   "fi": "20:00",
+   "text": "PCA I VISITA ALS CAP 2",
+   "assignatura": "Pràctica Clínica Assistencial I",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "5174443a8118e62475bfe968e08210fe3621a61b",
+   "titol": "Pràctica Clínica Assistencial I",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: PCA I VISITA ALS CAP 2"
+  },
+  {
+   "dia": "2026-11-19",
+   "inici": "10:00",
+   "fi": "13:30",
+   "text": "BF-PLAB3-G 16b M0-111B",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M0-111",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "db5d846fc63ee468f8d074c8cc6d22f1b6939141",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M0-111\nText del PDF: BF-PLAB3-G 16b M0-111B"
+  },
+  {
+   "dia": "2026-11-19",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a747a33f0dd774e85202205ed3668020b5088132",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-19",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "da38293c9e36106f32d74e718b8aadb2201599b2",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-19",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3acecec0bd962fbfecb43b01deb0d033a005bf64",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-20",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c28ebf9e29f6761e93c73541a8390eca58c8d9d0",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-20",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6d03b031dc31ac34a055c275e463e786cfaeafa0",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-20",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2387fef0afd9490f04b9545c60b66706d3e700d2",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-23",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "05e5eaf457479dce576b99abec8ff04ff74c0b16",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-23",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "034e2134bc52a1a48dd34deb56027522abad9272",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-23",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "ICS-T Aula: M5/003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "39049f6893baaf5c2b5ae41e887956ab9663541c",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: ICS-T Aula: M5/003"
+  },
+  {
+   "dia": "2026-11-24",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "de2c954354b245269ee641b6cb8f0d6ea0326f6a",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-24",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "65d9cbc2248f3a813b31de871d8cdf8caee38208",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-24",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "ICS-T Aula: M5-003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4a970cd03cabd64b6ee7370337d7418bf5c68725",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: ICS-T Aula: M5-003"
+  },
+  {
+   "dia": "2026-11-25",
+   "inici": "09:00",
+   "fi": "20:00",
+   "text": "PCA I VISITA ALS CAP 3",
+   "assignatura": "Pràctica Clínica Assistencial I",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "419dc8cc0c98557f8ede575a0c9ffe34224d47ad",
+   "titol": "Pràctica Clínica Assistencial I",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: PCA I VISITA ALS CAP 3"
+  },
+  {
+   "dia": "2026-11-26",
+   "inici": "09:00",
+   "fi": "14:00",
+   "text": "BQ-PLAB2-G 15b Lab M6-125 BQ-PLAB2-G 16b Lab M6-125",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M6-125",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "365bc43a1bbe24cf13af6ff021c08a43525fd04a",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M6-125\nText del PDF: BQ-PLAB2-G 15b Lab M6-125 BQ-PLAB2-G 16b Lab M6-125"
+  },
+  {
+   "dia": "2026-11-26",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a40ec04d1fb7c07a7b0f6ab833cb46f79e4a2ed7",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-26",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "888e6fa984486a49d62ceacdea3d620d1e6bcf1c",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-26",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQ-T Aula M5-003",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "28de7a598262a2c2fef37de946dab3210324a09c",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BQ-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-27",
+   "inici": "09:30",
+   "fi": "13:30",
+   "text": "BC-PLAB3-G 16b Lab M4-013",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-013",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "9ca7e7717215f97b821076548cb9b6296e7916b1",
+   "titol": "Biologia Cel·lular · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-013\nText del PDF: BC-PLAB3-G 16b Lab M4-013"
+  },
+  {
+   "dia": "2026-11-27",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "cd11607f72255c4d496fa54716d4ae70d7599e35",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-27",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "fbef8e3cfcf493c504729edb43c55c01c6194834",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-27",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "AHI-T Aula M5-003",
+   "assignatura": "Anatomia Humana: Generalitats i Aparell Locomotor",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "b6b27778056fa11b2bdeadd8be698d2ca786333f",
+   "titol": "Anatomia Humana: Generalitats i Aparell Locomotor · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AHI-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-30",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "2aba26c4d17697dec13c455ab0b0acd0a954c08e",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-11-30",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT8BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT8",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "f4cc25f0718365b6e5f44d2863b31d4ede959e52",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT8",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT8BQ"
+  },
+  {
+   "dia": "2026-12-01",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5-003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "bdc9f6477a40282983f62a8d23b2cd32883b030d",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: ICS-T Aula: M5-003"
+  },
+  {
+   "dia": "2026-12-01",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "458afba83c836fafdb2cac17e8f8654fc54366f2",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-12-02",
+   "inici": "09:00",
+   "fi": "20:00",
+   "text": "PCA I VISITA ALS CAP 4",
+   "assignatura": "Pràctica Clínica Assistencial I",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "93ba6a63b17dc4e91c69b523f10d92977a882db9",
+   "titol": "Pràctica Clínica Assistencial I",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: PCA I VISITA ALS CAP 4"
+  },
+  {
+   "dia": "2026-12-03",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "ICS-T Aula: M5-003",
+   "assignatura": "Introducció a les Ciències de la Salut",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "c81fbb187236930efda6e73119774e243e781e2e",
+   "titol": "Introducció a les Ciències de la Salut · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: ICS-T Aula: M5-003"
+  },
+  {
+   "dia": "2026-12-03",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BC-T Aula M5-003",
+   "assignatura": "Biologia Cel·lular",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "7eb289c870305b827659fc6d366292ecbec5b578",
+   "titol": "Biologia Cel·lular · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BC-T Aula M5-003"
+  },
+  {
+   "dia": "2026-12-03",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "SAT9BQ",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "SAT9",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "3d3bee9ea1cf9d91b46211c9903d278acfa10e70",
+   "titol": "Bioquímica Estructural i Biologia Molecular · SAT9",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: SAT9BQ"
+  },
+  {
+   "dia": "2026-12-09",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "1r PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/003, M5/007, M2/002, M6- 001",
+   "assignatura": "Biofísica",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5/001, M5/003, M5/007, M2/002, M6-001",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "65c0e9aeaceb8a3e4fa75fb3ba7d9134d1f6f0e1",
+   "titol": "Biofísica · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/003, M5/007, M2/002, M6-001\nText del PDF: 1r PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/003, M5/007, M2/002, M6- 001"
+  },
+  {
+   "dia": "2027-02-01",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AIMI-T4 Aula: M5-003",
+   "assignatura": "Aprenentatge Integrat de Medicina I",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3325ed5ad5f1deec1fcb719d153fcafba15a7961",
+   "titol": "Aprenentatge Integrat de Medicina I · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: AIMI-T4 Aula: M5-003"
+  },
+  {
+   "dia": "2027-02-01",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "59d644c048b5c29d135062bde7ec5565c8c3bb44",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-01",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d871158ef5534705d5d43e15d4ed72213e2108af",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-01",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "32a410debd5900ab723ddbd8d5c289ff6112a0aa",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-02",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d342bed1418fe42ac4703a67d5e459a8bb438996",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-02",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "159ed4744e684cd1925732a97af0def6f5115e27",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-02",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "028f4392672d05a8068fa4eaa22cf9e351671c16",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-02",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c9982e7516caca585fb4dad46963424f38ee7592",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-03",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3f746336881f71d55ccd2e5162c0fe41ebb547d1",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-03",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "cb7f601b90e4f3d2203029406b85dc2cc2bcafca",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-03",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "edeaf477928de08101fb7f3d1a85ba3c45daef2a",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-04",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "H-PLAB1- G 16b M4-009",
+   "assignatura": "Histologia",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-009",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "24a9bbd1da6917834ada9f81e1aaff81793dbb87",
+   "titol": "Histologia · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-009\nText del PDF: H-PLAB1- G 16b M4-009"
+  },
+  {
+   "dia": "2027-02-04",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0956bb72598ff6b1d8ed5a5f1305fa7d920c660d",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-04",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d4ee79ee98d2059b03bbc01f23d38368396e0dff",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-04",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "eb4ee510a3aee08f777b48fd2a8d6beccb274a1e",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-05",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "bb562575055e616370499b42224b3d22a510c668",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-05",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2acf9c82cd5f071050003f0315108a738a65e663",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-08",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "92abfad1331dfe71e7beed1d4b7a5849c0732a1f",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-08",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2f1da087c9dcba44ad43c7ffa9b03214270da05b",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-08",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "abc0de1c48c3edb030a1969ea700ae1cca36fc97",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-09",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e32ec529bfa1ae86a03e2656e8e8bb57ffa78b48",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-10",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c5189b72cb95061b10600504941f3a7697f98c37",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-10",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a92ceb457e325fafc19673d48d73db3a5617c4f9",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-10",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6cae77a165291ee64ca91208b4fb7760af673570",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-11",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3f465411cf4290bb580ac43bee0f669063f700f0",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-11",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "198fe824e69d6015130ec78a5d1700f85421a4d8",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-11",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6c33566ab1ccc5ec0cacb56b1bc108034904ae4d",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-12",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "51928624986b0e456127c87d7fc3f5aa118374f1",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-12",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "d1798281565ea7327d8e0b3d8244cd01ede2dfbb",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-12",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ec5f03c9778e7f3ce803eb0ab3c6121cf19c369c",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-15",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "64ae8fed489e381cd84aa7b7dd5e05cbc771d902",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-15",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "589b3fce0b3bd451f4a51ece5c62332e41cc83b1",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-16",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHII-T B1 Aula M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "54c7a29cabc81f8d8a6910d3820558a78d8806c9",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B1 Aula M5/003"
+  },
+  {
+   "dia": "2027-02-16",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "202e61908d4b4a1a73af362073139638418af5d6",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-16",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT1",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT1",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "e48ff568b519ccea4326641b2ffbff8e9107ad59",
+   "titol": "Bioquímica Metabòlica · SAT1",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT1"
+  },
+  {
+   "dia": "2027-02-17",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2a177636c2ff09c5923bf331401485f8140c85dd",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-17",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "87a35396b7e1e1ef71b48fd21ca83af4054e65c5",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-17",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a94a7bdbebbfdb5005998d187dd2ebad342a1c7e",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-18",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "H-PLAB2- G 16b M4-009",
+   "assignatura": "Histologia",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-009",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "982268a773d8b5e04ecba816dc98a323df4c6b46",
+   "titol": "Histologia · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-009\nText del PDF: H-PLAB2- G 16b M4-009"
+  },
+  {
+   "dia": "2027-02-18",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e6b308b8ed5d73c374b9b420a2746b1dc53804aa",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-18",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3f5b9c636dd63840ea2de7af47664a947a9bc03b",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-19",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "93950bc698d3df45c94f4371136d0393db328660",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-19",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "13ea1867172cc24b5bd8c9c2cf7d0dcc5c898967",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-22",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "945bd47826716caa2f98d839bb6268a796748c2a",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-22",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f32314e41dc04ea016b78b77caf0e4d6262b5cfe",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-22",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "827a5bd55e0a64f5d26a4101a46e068f89a46218",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-23",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f9053ce6a252acec58e576888cd387d5d75d9db0",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-23",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6ca4e9aa8c370bff0c50645d29d82bb0e95abafe",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-23",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4a434449d1c9b3ccba682d49d30764d0daaa2ae5",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-24",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "a6b6d5d5d0ee2b0a9418f78590bb8aa6c5414a5a",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-02-24",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BE-T Aula: M5/003",
+   "assignatura": "Bioestadística",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "90e0cf152ae48593890607f49decee8ab858b7c5",
+   "titol": "Bioestadística · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-24",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT2",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT2",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "1891b1f6898e6c643424f0db5e3e3b7bf0393979",
+   "titol": "Bioquímica Metabòlica · SAT2",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT2"
+  },
+  {
+   "dia": "2027-02-25",
+   "inici": "10:00",
+   "fi": "11:00",
+   "text": "AHII-T Aula: M5/003AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f05fbca40c1e0e82feddde51fcba0fd153f72421",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-25",
+   "inici": "11:00",
+   "fi": "12:00",
+   "text": "FG-T Aula: M5/003FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f5192cee17a73f2b329ca8eabccfd1eb28d841d5",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-02-25",
+   "inici": "12:00",
+   "fi": "20:00",
+   "text": "JORNADES CLÍNIQUES",
+   "assignatura": "JORNADES CLÍNIQUES",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "953d3b8001833dcf9100b5b383f7478b37e80444",
+   "titol": "JORNADES CLÍNIQUES",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: JORNADES CLÍNIQUES"
+  },
+  {
+   "dia": "2027-02-26",
+   "inici": "09:00",
+   "fi": "20:00",
+   "text": "JORNADES CLÍNIQUES",
+   "assignatura": "JORNADES CLÍNIQUES",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "286df601ef83de8fc51ed0ccdf3038c2a3b541bf",
+   "titol": "JORNADES CLÍNIQUES",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: JORNADES CLÍNIQUES"
+  },
+  {
+   "dia": "2027-03-01",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "80ce22866c68a3ac41eb3842d7aab4b293d3ee5a",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-01",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2bc77db0896715380c2ef1bb5f30b15d2ad3e8d5",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-02",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "d9720a1945fb79084b6f53dcb94eb11ea79ca137",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-02",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "302f09bb54ea65fc9848d61fd05afc80f3fcf9b4",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-02",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT3",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT3",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "b59c7aefe95171d2dcb125fbc56bab189151bd0d",
+   "titol": "Bioquímica Metabòlica · SAT3",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT3"
+  },
+  {
+   "dia": "2027-03-03",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "45e2ffea270597d21967a741e6ea890db553c886",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-03",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3e83deead4ab4cd7d98d3cdee6eed6d9fdf39ff1",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-03",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e3d6988a50ea79439ee0314d80341f192c815e20",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-04",
+   "inici": "09:30",
+   "fi": "11:30",
+   "text": "BFS4-2 G 16b M2-001",
+   "assignatura": "BFS4-2 G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "448893dedccc3a3e61fe23d6f750f872760aeeed",
+   "titol": "BFS4-2 G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS4-2 G 16b M2-001"
+  },
+  {
+   "dia": "2027-03-04",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "H-PLAB3- G 16b M4-009",
+   "assignatura": "Histologia",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-009",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "85e95f385785430c424a0e3c11193c19c51a1e64",
+   "titol": "Histologia · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-009\nText del PDF: H-PLAB3- G 16b M4-009"
+  },
+  {
+   "dia": "2027-03-04",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7e33e87a16f7f333ff6ba7b434d0ae5b6cc27374",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-04",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1de8b6ead8aadc51618849d5e9b0d1c57dedad64",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-04",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "085f58a974b482319bbc93a2f413d737eb6545b6",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-05",
+   "inici": "12:00",
+   "fi": "13:30",
+   "text": "BFS4-1 G 16b M5-005",
+   "assignatura": "BFS4-1 G 16b M5-005",
+   "tipus": "",
+   "aula": "M5-005",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "037be4f33775e029196e718f2e1cfdbfcba28c47",
+   "titol": "BFS4-1 G 16b M5-005",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-005\nText del PDF: BFS4-1 G 16b M5-005"
+  },
+  {
+   "dia": "2027-03-05",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c6a13f12705af81d461f2050946fd832633b556f",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-05",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T4 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3b65441e094b7f9b31c0bb59472a17822806d966",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-09",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "9e38fe85851f99e8881a7fe1350a1a42e624c265",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-10",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e0f7e8b6c60821b1a80e8f44eb1d983cb553bb1a",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-10",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c309cfaff0b56e53df5f587c17623d39a7dd1055",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-10",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T5 Aula: M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "40ab5ccba39f8f92c5d57e4f437b7d4fd5b6a44a",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T5 Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-11",
+   "inici": "12:00",
+   "fi": "14:00",
+   "text": "BFS5-G 16b M2-001",
+   "assignatura": "BFS5-G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "2a9ef38696c1ab1bf483bb56593ec717045cb2d5",
+   "titol": "BFS5-G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS5-G 16b M2-001"
+  },
+  {
+   "dia": "2027-03-11",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5802f9d576500ce52665231ba390297d8476ac73",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-11",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5ad45f769569a2d5f13f4a9a80ee9260b6f872e0",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-15",
+   "inici": "10:00",
+   "fi": "13:30",
+   "text": "BF-PLAB4-G 16b M2-011",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M2-011",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "dcf32611997d87f61741521a9e7ef1785b6ad86e",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-011\nText del PDF: BF-PLAB4-G 16b M2-011"
+  },
+  {
+   "dia": "2027-03-15",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4765bf0f6c9f1d6c7af5b93701fca03180df252f",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-03-16",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT4",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT4",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "522a0c20dd9c031bcaf5d4686b3187f8ac2e58cf",
+   "titol": "Bioquímica Metabòlica · SAT4",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT4"
+  },
+  {
+   "dia": "2027-03-17",
+   "inici": "13:00",
+   "fi": "15:00",
+   "text": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "assignatura": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "21df0bc391ecee51a7ce6cf7bea143bcc40a1997",
+   "titol": "ACTIVITAT CAMPUS 13:00- 15:00h",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: ACTIVITAT CAMPUS 13:00- 15:00h"
+  },
+  {
+   "dia": "2027-03-18",
+   "inici": "09:30",
+   "fi": "13:30",
+   "text": "BQM-PLAB1-G 15b Lab M6-125 BQM-PLAB1-G 16b Lab M6-125",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M6-125",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "6285e89867f4606caff87683ca8ffd15f2c85f69",
+   "titol": "Bioquímica Metabòlica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M6-125\nText del PDF: BQM-PLAB1-G 15b Lab M6-125 BQM-PLAB1-G 16b Lab M6-125"
+  },
+  {
+   "dia": "2027-03-18",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT5",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT5",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "0853921f3ed07f2f8caf1145865b11fcb12ca145",
+   "titol": "Bioquímica Metabòlica · SAT5",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT5"
+  },
+  {
+   "dia": "2027-03-30",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "103592 EXAMEN ANATOMIA HUMANA -II: CARDIOVASCULAR CAP I COLL 15-19h Examen 1r Parcial M5/001, M5/001, M5/007, M2/002, M5- 005, M5-006",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5/001, M5/007, M2/002, M5-005, M5-006",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0dd68c0430764963b1cf753f8fc4cd533b27376a",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/007, M2/002, M5-005, M5-006\nText del PDF: 103592 EXAMEN ANATOMIA HUMANA -II: CARDIOVASCULAR CAP I COLL 15-19h Examen 1r Parcial M5/001, M5/001, M5/007, M2/002, M5- 005, M5-006"
+  },
+  {
+   "dia": "2027-04-02",
+   "inici": "09:00",
+   "fi": "12:00",
+   "text": "EXAMEN 1r PARCIAL 103596-Bioquímica Metabòlica M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 9-12 h",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5-01, M5-03, M5-07, M2-02, M5-05, M5-06",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "00927312bb92a1ff8c214f11e4117d7193de11eb",
+   "titol": "Bioquímica Metabòlica · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-01, M5-03, M5-07, M2-02, M5-05, M5-06\nText del PDF: EXAMEN 1r PARCIAL 103596-Bioquímica Metabòlica M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 9-12 h"
+  },
+  {
+   "dia": "2027-04-05",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "2n PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/001, M5/007, M2/002, M6-001",
+   "assignatura": "Biofísica",
+   "tipus": "Examen 2n parcial",
+   "aula": "M5/001, M5/007, M2/002, M6-001",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1010882e9b09cedbc1c23af530338a9d0b9508d0",
+   "titol": "Biofísica · Examen 2n parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/007, M2/002, M6-001\nText del PDF: 2n PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/001, M5/007, M2/002, M6-001"
+  },
+  {
+   "dia": "2027-04-07",
+   "inici": "09:00",
+   "fi": "18:00",
+   "text": "2n PARCIAL_Pràctic 102974 BIOESTADÍSTICA Horari: 9-18h Aules informàtiques",
+   "assignatura": "Bioestadística",
+   "tipus": "Examen 2n parcial",
+   "aula": "",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "67f34d959f17fc3109902e716c3cbc2f83091729",
+   "titol": "Bioestadística · Examen 2n parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: 2n PARCIAL_Pràctic 102974 BIOESTADÍSTICA Horari: 9-18h Aules informàtiques"
+  },
+  {
+   "dia": "2027-04-08",
+   "inici": "09:00",
+   "fi": "14:00",
+   "text": "2n PARCIAL Teòric 102974 BIOESTADÍSTICA Horari: 9-14h M5/001, M5/001, M5/007, M2/002, M5-005, M5-006",
+   "assignatura": "Bioestadística",
+   "tipus": "Examen 2n parcial",
+   "aula": "M5/001, M5/007, M2/002, M5-005, M5-006",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8c729bec8360de92ec2224072482a03e01dc64fd",
+   "titol": "Bioestadística · Examen 2n parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/007, M2/002, M5-005, M5-006\nText del PDF: 2n PARCIAL Teòric 102974 BIOESTADÍSTICA Horari: 9-14h M5/001, M5/001, M5/007, M2/002, M5-005, M5-006"
+  },
+  {
+   "dia": "2027-04-12",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "Examen 1r Parcial 106730 Fisiologia General Horari: 15-19h M5/001, M5/001, M5/007, M2/002, M5-005, M5-006",
+   "assignatura": "Fisiologia General",
+   "tipus": "Examen 1r parcial",
+   "aula": "M5/001, M5/007, M2/002, M5-005, M5-006",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c069d2d6a9a14d185d7897b373237aec17eb47e9",
+   "titol": "Fisiologia General · Examen 1r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/007, M2/002, M5-005, M5-006\nText del PDF: Examen 1r Parcial 106730 Fisiologia General Horari: 15-19h M5/001, M5/001, M5/007, M2/002, M5-005, M5-006"
+  },
+  {
+   "dia": "2027-04-13",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T7 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2bd9d876115320f5b108e748a81aa07bf429c98c",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T7 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-13",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "93f0e09e7c41ef4f6401c46ccf7016243a165916",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-13",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "15a353f3fd9003851c96147ab836af4cb7d3dbb3",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-13",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "2ea5e9e4924d301d3cf32b7dfc02d668aac3f657",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-04-14",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "02b0286b93bf784a32eff21495947b48b3856e70",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-14",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "5ffb9fa484aa5ee6d1a75c404d567e25dd3b2ee2",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-14",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T7 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ae9d7fb2563eaf8d272c0bfdb497bd0ad0b5694a",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T7 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-14",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ac124054b521badce060f145300a8b0289da97e8",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-04-15",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T7 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "85df31e3c572e06f6a908302c889e2080b14f105",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T7 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-15",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "b6b2a4353b84ea6a02fd1594bc49957379e03b02",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-04-15",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "eaf521b6d473a001ea8e5f5e9203bece802ea114",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-15",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "295dad6ba7c93df42dc0290066825a185b92f2a2",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-16",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "917cf5cf27d8e49e6b3523639ff985c2060003b2",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-16",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3da1df299904b57768073fac4de84406987631f5",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-16",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BF-T6 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "a067572fb23d8a09f84f3761edb62da15fb64874",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T6 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-16",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "33300f4a1e15be1b90adc33d6efc4912ee2a8544",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-19",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "306aef976bd427f02f4b366380a742c49334dd79",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-19",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "c3c0268e06983c9efbdc104e11c9693d0221fe8e",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-19",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "75f6b284647f872fc49b0068df515ea22e6f32e7",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-19",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BF-T6 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6395ae1827cd7efe58a94c23b2edbe6ea86085c9",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T6 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-20",
+   "inici": "12:00",
+   "fi": "16:00",
+   "text": "LA COMUNITÀRIA UAB 12:00-16:00h",
+   "assignatura": "LA COMUNITÀRIA UAB 12:00-16:00h",
+   "tipus": "",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "4f985bc7a66d88c76678afedc15cae15ba4bf710",
+   "titol": "LA COMUNITÀRIA UAB 12:00-16:00h",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: LA COMUNITÀRIA UAB 12:00-16:00h"
+  },
+  {
+   "dia": "2027-04-20",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T6 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "4280eaf4efaaf89587418025d74a3b7067cb2859",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T6 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-20",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "6c20d4fd9d5572743c8c48381831d3e19d950ace",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-20",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "78cfeea79320851f502830f5b3311b0586c701c9",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-21",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3bb6746e34ebaf35c2fe85cd573a48e4707dab06",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-21",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "bfc0dd4703a1889bd9af260dd24831483fd33ce5",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-21",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e291b051a5dbdcbc3bda43bbd6118896d52d79d9",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-21",
+   "inici": "18:00",
+   "fi": "19:00",
+   "text": "BF-T6 Aula M5/003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "51f9076824a2d26170cd521ab543f0bdaa5ccf1f",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BF-T6 Aula M5/003"
+  },
+  {
+   "dia": "2027-04-22",
+   "inici": "09:00",
+   "fi": "13:00",
+   "text": "BQM-PLAB2-G 15b Lab M6-125 BQM-PLAB2-G 16b Lab M6-125",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M6-125",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "d2ab70f5ed0b0c6c068d30200fdc19627634724e",
+   "titol": "Bioquímica Metabòlica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M6-125\nText del PDF: BQM-PLAB2-G 15b Lab M6-125 BQM-PLAB2-G 16b Lab M6-125"
+  },
+  {
+   "dia": "2027-04-22",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BF-T6 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "e1b6eacfa5c8e34f961ba21cd03c0108714accf4",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T6 Aula M5-003"
+  },
+  {
+   "dia": "2027-04-22",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "e5d7ecee679e0604343b20df62c24bef669b4334",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-22",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT6",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT6",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "bb6a5e055f608d88045e8eb5e4921afddaa14a2e",
+   "titol": "Bioquímica Metabòlica · SAT6",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT6"
+  },
+  {
+   "dia": "2027-04-23",
+   "inici": "10:00",
+   "fi": "11:30",
+   "text": "BFS7-G 16b M2-001",
+   "assignatura": "BFS7-G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "32ad65b221029cc671ecdfafb07b611ae2bed00d",
+   "titol": "BFS7-G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS7-G 16b M2-001"
+  },
+  {
+   "dia": "2027-04-23",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "H-PLAB4- G 16b M4-009",
+   "assignatura": "Histologia",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-009",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "7ed89ac33ffc2faf00463022f2f97340b98f03ae",
+   "titol": "Histologia · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-009\nText del PDF: H-PLAB4- G 16b M4-009"
+  },
+  {
+   "dia": "2027-04-23",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "H-T Aula: M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "f6bfb3b901340a711e3be55edbc66afb22fe5ee7",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-23",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BF-T6 Aula M5-003",
+   "assignatura": "Biofísica",
+   "tipus": "Teoria",
+   "aula": "M5-003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "bdf6eb0cecae60ffc4d0f73bbdcc6554c64aaef3",
+   "titol": "Biofísica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-003\nText del PDF: BF-T6 Aula M5-003"
+  },
+  {
+   "dia": "2027-04-23",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT7",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT7",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "02aa25ea7e5d91616e0266cfa014a9b4d209fe25",
+   "titol": "Bioquímica Metabòlica · SAT7",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT7"
+  },
+  {
+   "dia": "2027-04-26",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "49f5ee8e47fbd587ac37f92661470989df2b4643",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-26",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "3b74db87a631fc39015cf194566138f342fe6fb1",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-26",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "da2346eade986df93e68d5d822857e14a19eb815",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-04-27",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "481b740c9c8f580b11b046422c7c8553eb4c0250",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-27",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "e8633001fc19d37ab05cd4cde485554101f52115",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-27",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "H-T Aula M5/003",
+   "assignatura": "Histologia",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "aa090d7945cddbd494486f77ff8661f308557d09",
+   "titol": "Histologia · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: H-T Aula M5/003"
+  },
+  {
+   "dia": "2027-04-28",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "1ff90829186d222539cb60e28b60dbd7e1c1793c",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-28",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "7b9ba6e98cbd6660795c7ccb86767f3b6e85233d",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-28",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "ef8f8d48d070cd28c34303e7bdc2940498ed3027",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-29",
+   "inici": "10:00",
+   "fi": "11:30",
+   "text": "BFS6-G 16b M2-001",
+   "assignatura": "BFS6-G 16b M2-001",
+   "tipus": "",
+   "aula": "M2-001",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "8c924892397d30b45d62b2968d05459d699df501",
+   "titol": "BFS6-G 16b M2-001",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-001\nText del PDF: BFS6-G 16b M2-001"
+  },
+  {
+   "dia": "2027-04-29",
+   "inici": "11:30",
+   "fi": "13:30",
+   "text": "H-PLAB5- G 16b M4-009",
+   "assignatura": "Histologia",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M4-009",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "9112be272b1ef6914922735b99575872c6d6779a",
+   "titol": "Histologia · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-009\nText del PDF: H-PLAB5- G 16b M4-009"
+  },
+  {
+   "dia": "2027-04-29",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "678dffddf7f619647761c8eb69dc3317034894ba",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-29",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "f09eda25034e3977432028a9e8cb4b4ede3e0081",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-29",
+   "inici": "17:00",
+   "fi": "18:00",
+   "text": "BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "36fa5273c71cc2e4abe37dedfdcffdc64de8f05c",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-30",
+   "inici": "09:00",
+   "fi": "11:00",
+   "text": "BQM- PAUL1-G8 M5-005",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Pràctiques d'aula",
+   "aula": "M5-005",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "09dc989429d50958f67d14dff6625b64ac80afbe",
+   "titol": "Bioquímica Metabòlica · Pràctiques d'aula",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-005\nText del PDF: BQM- PAUL1-G8 M5-005"
+  },
+  {
+   "dia": "2027-04-30",
+   "inici": "15:00",
+   "fi": "16:00",
+   "text": "AHII-T B3 Aula: M5/003",
+   "assignatura": "Anatomia Humana: Cardiovascular, Cap i Coll",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "be444d430f94b4b020b6a1708dfdc74f29761799",
+   "titol": "Anatomia Humana: Cardiovascular, Cap i Coll · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-30",
+   "inici": "16:00",
+   "fi": "17:00",
+   "text": "FG-T Aula: M5/003",
+   "assignatura": "Fisiologia General",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "a3f6dea79444504324134834d54b4c521810fc5d",
+   "titol": "Fisiologia General · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-04-30",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT8",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT8",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "2cdeb7202495bf43a47970b0c7ab252c12c26c2c",
+   "titol": "Bioquímica Metabòlica · SAT8",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT8"
+  },
+  {
+   "dia": "2027-05-03",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "BQM-PLAB3-G 15b Lab M6-126 BQM-PLAB3-G 16b Lab M6-126",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M6-126",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "7eedb5b04687539a9fa75905a4a26a4b80f6092a",
+   "titol": "Bioquímica Metabòlica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M6-126\nText del PDF: BQM-PLAB3-G 15b Lab M6-126 BQM-PLAB3-G 16b Lab M6-126"
+  },
+  {
+   "dia": "2027-05-04",
+   "inici": "11:00",
+   "fi": "13:30",
+   "text": "BF-PLAB5-G 16b M2-011",
+   "assignatura": "Biofísica",
+   "tipus": "Pràctiques de laboratori",
+   "aula": "M2-011",
+   "subgrups": [
+    "G16b"
+   ],
+   "id": "92ed062b8dfcc8ba4d435f54bed0c4c42de27bd5",
+   "titol": "Biofísica · Pràctiques de laboratori",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M2-011\nText del PDF: BF-PLAB5-G 16b M2-011"
+  },
+  {
+   "dia": "2027-05-04",
+   "inici": "15:00",
+   "fi": "17:00",
+   "text": "BQM-T Aula: M5/003 BQM-T Aula: M5/003",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "Teoria",
+   "aula": "M5/003",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "8dfbff6bdbc087560353eb9be0153c1256bc8bd1",
+   "titol": "Bioquímica Metabòlica · Teoria",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003 BQM-T Aula: M5/003"
+  },
+  {
+   "dia": "2027-05-06",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT9",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT9",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "63891a7c2dfaedbda27b6ce13b00ad9a1cfe6677",
+   "titol": "Bioquímica Metabòlica · SAT9",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT9"
+  },
+  {
+   "dia": "2027-05-07",
+   "inici": "17:00",
+   "fi": "19:00",
+   "text": "BQM SAT 10",
+   "assignatura": "Bioquímica Metabòlica",
+   "tipus": "SAT10",
+   "aula": "",
+   "subgrups": [
+    "G16b",
+    "G17b",
+    "G18b",
+    "G19b",
+    "G20"
+   ],
+   "id": "9e97d239793022dade8317331fda6a3fd7bbeaef",
+   "titol": "Bioquímica Metabòlica · SAT10",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nText del PDF: BQM SAT 10"
+  },
+  {
+   "dia": "2027-05-10",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "EXAMEN 2n PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 15-19 h",
+   "assignatura": "Bioquímica Estructural i Biologia Molecular",
+   "tipus": "Examen 2n parcial",
+   "aula": "M5-01, M5-03, M5-07, M2-02, M5-05, M5-06",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "88ce3e1bb4b71f10efaf613664b88dfd19b79512",
+   "titol": "Bioquímica Estructural i Biologia Molecular · Examen 2n parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5-01, M5-03, M5-07, M2-02, M5-05, M5-06\nText del PDF: EXAMEN 2n PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01, M5-03, M5- 07, M2-02, M5-05, M5-06 Horari: 15-19 h"
+  },
+  {
+   "dia": "2027-05-18",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "Examen Microscopis 106731 Histologia 15-19h M4-010",
+   "assignatura": "Histologia",
+   "tipus": "Examen de microscopis",
+   "aula": "M4-010",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "0eeceaeb788fc506d925793fea8e77337129832e",
+   "titol": "Histologia · Examen de microscopis",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M4-010\nText del PDF: Examen Microscopis 106731 Histologia 15-19h M4-010"
+  },
+  {
+   "dia": "2027-05-20",
+   "inici": "15:00",
+   "fi": "19:00",
+   "text": "3r PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/001, M5/007, M2/002, M6-001",
+   "assignatura": "Biofísica",
+   "tipus": "Examen 3r parcial",
+   "aula": "M5/001, M5/007, M2/002, M6-001",
+   "subgrups": [
+    "G15",
+    "G16",
+    "G17",
+    "G18"
+   ],
+   "id": "de68fdec2cc00de65fcad78beb33f1d8a15a2ee6",
+   "titol": "Biofísica · Examen 3r parcial",
+   "descripcio": "Grau en Medicina · 1r curs (Bellaterra) · Subgrup G16b (grup 104)\nAula: M5/001, M5/007, M2/002, M6-001\nText del PDF: 3r PARCIAL 102962 BIOFÍSICA 15-19h M5/001, M5/001, M5/007, M2/002, M6-001"
+  }
+ ]
+}

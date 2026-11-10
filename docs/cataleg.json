@@ -6,7 +6,40 @@
   "grups": [
    {
     "grup": "104",
+    "nom": "Grup 104 (només sessions de tot el grup)",
     "ntfy": "horaris-uab-medicina1-104"
+   },
+   {
+    "grup": "G11",
+    "nom": "Subgrup G11 (grup 103)",
+    "ntfy": "horaris-uab-medicina1-g11"
+   },
+   {
+    "grup": "G15",
+    "nom": "Subgrup G15 (grup 104)",
+    "ntfy": "horaris-uab-medicina1-g15"
+   },
+   {
+    "grup": "G16b",
+    "nom": "Subgrup G16b (grup 104)",
+    "ntfy": "horaris-uab-medicina1-g16b"
+   }
+  ]
+ },
+ {
+  "id": "uab/veterinaria-3",
+  "universitat": "Universitat Autònoma de Barcelona",
+  "titulacio": "Grau en Veterinària · 3r curs",
+  "grups": [
+   {
+    "grup": "T1-5ab",
+    "nom": "Teoria 1 · Pràctiques 5ab",
+    "ntfy": "horaris-uab-vet3-t1-5ab"
+   },
+   {
+    "grup": "T2-5ab",
+    "nom": "Teoria 2 · Pràctiques 5ab",
+    "ntfy": "horaris-uab-vet3-t2-5ab"
    }
   ]
  }

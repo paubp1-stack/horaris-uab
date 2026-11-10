@@ -1,0 +1,3861 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Horaris UAB//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 
+ 103)
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:46f65c9bdee39ab6289d1c5e8e4e3dba9611e609@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260907T150000
+DTEND;TZID=Europe/Madrid:20260907T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T2 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf8122bbe8e95ef2e2db51b1449ba190904dc08@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260907T160000
+DTEND;TZID=Europe/Madrid:20260907T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:401cac7096f61e362b9e1da83ec05bdbc1c2ea09@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260907T170000
+DTEND;TZID=Europe/Madrid:20260907T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:afa3989f855a2356913a55da55c6004de5433a63@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260907T180000
+DTEND;TZID=Europe/Madrid:20260907T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6f682946a1d8691c8763f7376cd9420f9fc374ea@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260908T150000
+DTEND;TZID=Europe/Madrid:20260908T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0d3943abb2653d4951058fa2f415c8b7bfd94c90@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260908T160000
+DTEND;TZID=Europe/Madrid:20260908T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:d6461b92117e11b30866f2c4a65ee15665f0e3f8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260908T170000
+DTEND;TZID=Europe/Madrid:20260908T180000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5fff5f2762688a996e2615e598fa4f1afc20@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260908T180000
+DTEND;TZID=Europe/Madrid:20260908T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7396e786cd32a392cd3b0bcbef9f5beba4cc22@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260909T150000
+DTEND;TZID=Europe/Madrid:20260909T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae17b86345011dd7595e9cb3e94e49e62693a6c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260909T160000
+DTEND;TZID=Europe/Madrid:20260909T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:5fec3a4550576fc8e34add6aeba252d12e7c612d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260909T170000
+DTEND;TZID=Europe/Madrid:20260909T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9afd7b98f68d0462b3bb3df278529e275cadf0d8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260909T180000
+DTEND;TZID=Europe/Madrid:20260909T190000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:279df9371fd05f5317278d60d03eb817d5b38226@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260910T150000
+DTEND;TZID=Europe/Madrid:20260910T160000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:02d05be99f1b9fb9cd71607c2132d39520ebdb92@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260910T160000
+DTEND;TZID=Europe/Madrid:20260910T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ce011c25e8fdbfa77e0b7b4ea84b9d4114a4c0f6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260910T170000
+DTEND;TZID=Europe/Madrid:20260910T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:289625178ea6e9e9da2261537842744d2e1565a2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260910T180000
+DTEND;TZID=Europe/Madrid:20260910T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T2 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:508392417feed26e9e606e4d69094f18dce2fad5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260914T150000
+DTEND;TZID=Europe/Madrid:20260914T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT1
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9c19c4072b4823c7972719f8343c3886a1282542@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260914T170000
+DTEND;TZID=Europe/Madrid:20260914T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T2 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f474392ce81629aa1a173e4e32aabdfd724b296b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260914T180000
+DTEND;TZID=Europe/Madrid:20260914T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:65d5921c41efc5260dd6f24723ad60c816fee8b0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260915T150000
+DTEND;TZID=Europe/Madrid:20260915T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c3aa1c0a1eda26d7864f3c2592efce3d05b2b02b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260915T160000
+DTEND;TZID=Europe/Madrid:20260915T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T2 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:888ed39887ed72c97ef1c9616e80064657eabe7d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260915T170000
+DTEND;TZID=Europe/Madrid:20260915T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:035f63a307344b195cc0a37cf5ce79ea8ccbe6d0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260915T180000
+DTEND;TZID=Europe/Madrid:20260915T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:34d083f1fdb3505426d6f857869fbfdb9005d6a7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T093000
+DTEND;TZID=Europe/Madrid:20260916T113000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHI-SEM1- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3dd0b82d934b3c890b43102e357f0e2df470fa@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T113000
+DTEND;TZID=Europe/Madrid:20260916T133000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM1- S1-G 11 BIB2
+END:VEVENT
+BEGIN:VEVENT
+UID:92e6a6729c7d5a08cb92a242798633aa6f2a0cc4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T150000
+DTEND;TZID=Europe/Madrid:20260916T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:e9418edadd949d53a3f8c34d67a172a6cfb242e2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T160000
+DTEND;TZID=Europe/Madrid:20260916T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f926a6dda348dc0a0ca21a54f82f2f06e88908cf@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T170000
+DTEND;TZID=Europe/Madrid:20260916T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:3da9ccb66d16b8a949c43f6e60d0b67346056ff9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260916T180000
+DTEND;TZID=Europe/Madrid:20260916T190000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:fd39f59c3a6750cd2dbe595776f346f0cbbf763f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260917T110000
+DTEND;TZID=Europe/Madrid:20260917T133000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB1-G 11 Aula Inf. 1 BE-PLAB1-G 12 Aula Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:d63eff66a549b2bbde985d21e3bb24aec55051db@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260917T150000
+DTEND;TZID=Europe/Madrid:20260917T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:e01fdc9be8010080211d0ad87b58d4944578ef19@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260917T160000
+DTEND;TZID=Europe/Madrid:20260917T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:35e2cb3b566b8be87ae8dc7f8ed0c37d9f9a6964@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260917T170000
+DTEND;TZID=Europe/Madrid:20260917T180000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9a98ce36bd6bf082a8e0434c90557d8290a8d01d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260918T150000
+DTEND;TZID=Europe/Madrid:20260918T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT2
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT2BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c3577ee48b66fc5e2e9eeb9fca79f52ea2746a23@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260918T170000
+DTEND;TZID=Europe/Madrid:20260918T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ac45f5c6920677e65d43446f761db9bc95bf46b6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260921T150000
+DTEND;TZID=Europe/Madrid:20260921T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:fb24aa0813c13776c17ae4e5d780457376bafbf8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260921T160000
+DTEND;TZID=Europe/Madrid:20260921T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e47646e3a3bf2a03c6133b8bef1d6d700105cf69@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260921T170000
+DTEND;TZID=Europe/Madrid:20260921T180000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:da88987981a744ed6a550de809fb91eb66f87d8b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260921T180000
+DTEND;TZID=Europe/Madrid:20260921T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T1 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0872708a352d1d44836ceb903c34566def3d1d4f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260922T150000
+DTEND;TZID=Europe/Madrid:20260922T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84e4112fece44d3e28bd8385dc7e59646d599f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260922T160000
+DTEND;TZID=Europe/Madrid:20260922T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T1 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9e749f61b77f5b159be5cca20442d2698d73b10b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260922T170000
+DTEND;TZID=Europe/Madrid:20260922T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:107670808b82dd22a0ed5014ad6292bdeb2bba36@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260922T180000
+DTEND;TZID=Europe/Madrid:20260922T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:31967ed64646ecc30d27caf22722f3a74af0df52@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260923T150000
+DTEND;TZID=Europe/Madrid:20260923T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:3859716860799d23c6d40801e09f6bd2d087f935@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260923T160000
+DTEND;TZID=Europe/Madrid:20260923T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T1 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0a389ad51cb50aec307fefde713446fb240b02@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260923T170000
+DTEND;TZID=Europe/Madrid:20260923T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac17f38c97aa2e71d4da699445788e88321cfac@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260923T180000
+DTEND;TZID=Europe/Madrid:20260923T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:b00f4667b7e5570e686dc84eb46b5dab6f1440da@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T093000
+DTEND;TZID=Europe/Madrid:20260925T113000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHI-SEM2- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:eb38f6b9f5ba33d6a60fe73844c31771181d5fd6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T113000
+DTEND;TZID=Europe/Madrid:20260925T133000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM1- S2-G 11 BIB2
+END:VEVENT
+BEGIN:VEVENT
+UID:e324612bf692a9d5e70cc1df8b9f0bd82201729c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T150000
+DTEND;TZID=Europe/Madrid:20260925T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:18bfd5351a61cbfac728b893dda40dc2edcadf89@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T160000
+DTEND;TZID=Europe/Madrid:20260925T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1775f50ffd2ff180d068655eb45edc2e98a2350f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T170000
+DTEND;TZID=Europe/Madrid:20260925T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5db614e5de4748ce74af29efce4c289435264c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260925T180000
+DTEND;TZID=Europe/Madrid:20260925T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T1 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc914d11f5b732093fb0a4c44a55a8399d94a15@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260928T113000
+DTEND;TZID=Europe/Madrid:20260928T133000
+SUMMARY:BFS2-G 11 M2-001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-001\nText del PDF: BFS2-G 11 M2-001
+LOCATION:M2-001
+END:VEVENT
+BEGIN:VEVENT
+UID:53019b7371d313dfbc15f723178dcfe075b61864@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260928T150000
+DTEND;TZID=Europe/Madrid:20260928T160000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:dcafdc5d6c50daca2d25c6e2fb202520cabce47c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260928T160000
+DTEND;TZID=Europe/Madrid:20260928T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:02f48244c2ff737006150ab2f1ace9e74b169e38@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260929T093000
+DTEND;TZID=Europe/Madrid:20260929T123000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BF-PLAB2-G 11 POSPOSADA
+END:VEVENT
+BEGIN:VEVENT
+UID:f697717cb723c03159307472a470bfdc640cbd62@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260929T160000
+DTEND;TZID=Europe/Madrid:20260929T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1f34ff87f9e58adad3d8529d747c2d7f91eaf699@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260929T170000
+DTEND;TZID=Europe/Madrid:20260929T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:aa04b5dec04d0b827b4c0d928921b0b0cec217a7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260929T180000
+DTEND;TZID=Europe/Madrid:20260929T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:dc8a9df0d4ddcd7929acce2a6add8bf4e602cd18@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260930T100000
+DTEND;TZID=Europe/Madrid:20260930T133000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB2-G BP1-11 G6Aula Inf. 2 M5-BE-PLAB2-G 00512 Aul
+ a Inf. 3
+END:VEVENT
+BEGIN:VEVENT
+UID:7774e56c5bd0049032324c9f40f9833532d65fd8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260930T150000
+DTEND;TZID=Europe/Madrid:20260930T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT3
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT3BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:19cfba4af0eb38f6ebd3966f26efe00c3156c552@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260930T170000
+DTEND;TZID=Europe/Madrid:20260930T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ae809b7e7d370ecd91a1356024643f424bc428ab@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20260930T180000
+DTEND;TZID=Europe/Madrid:20260930T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:0c2b8eee6e7d5c7cbf7f811b378d024d496c1292@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261001T090000
+DTEND;TZID=Europe/Madrid:20261001T133000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Pràctiques de labo
+ ratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-002\nText del PDF: BQ-PLAB1-G 11 M4-002 (9-10.30) i Lab M6- 
+ 125 BQ-PLAB1-G 12 M4-002 (9-10.30) i Lab M6- 125
+LOCATION:M4-002
+END:VEVENT
+BEGIN:VEVENT
+UID:7612381d5ec9ded2afda65036fc43635bd895573@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261001T150000
+DTEND;TZID=Europe/Madrid:20261001T160000
+SUMMARY:Pràctica Clínica Assistencial I · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: PCA1-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7bc5c546542fa93bdf6b1ec550b7aa0cc48a4e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261001T160000
+DTEND;TZID=Europe/Madrid:20261001T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:417c3e6fd6b1f45e5f885ebcff62a15fe03e0f72@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261001T170000
+DTEND;TZID=Europe/Madrid:20261001T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:29b4ccbe2f0cac080280c95689328447409fc10d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261002T093000
+DTEND;TZID=Europe/Madrid:20261002T113000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHI-SEM3- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:677ea6c7c393c0dd04797cb0e3639528b60d3cd4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261002T113000
+DTEND;TZID=Europe/Madrid:20261002T133000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM1- S3-G 11 BIB2
+END:VEVENT
+BEGIN:VEVENT
+UID:19032fba958835a148428a2b64cb942ccb8bff3b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261002T150000
+DTEND;TZID=Europe/Madrid:20261002T160000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:73394d80983557f8d415a1207940bb58735bc2f0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261002T160000
+DTEND;TZID=Europe/Madrid:20261002T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6f85ff42185590b9f9004ebfd62a4d55f05cb892@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261005T150000
+DTEND;TZID=Europe/Madrid:20261005T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT4
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT4BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:548f77785ae8e520f75601f2afe58ffc92a53b0f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261005T170000
+DTEND;TZID=Europe/Madrid:20261005T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e3a16e04231d6854d0344553c757442c838d12@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261005T180000
+DTEND;TZID=Europe/Madrid:20261005T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:62918373bf71c0e873876e2ff3a12ee9ae02c38e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261006T093000
+DTEND;TZID=Europe/Madrid:20261006T133000
+SUMMARY:Biologia Cel·lular · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-013\nText del PDF: BC-PLAB1-G 11 Lab M4-013
+LOCATION:M4-013
+END:VEVENT
+BEGIN:VEVENT
+UID:721e05845b3bc625972678ec380c03049fa82a12@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261006T150000
+DTEND;TZID=Europe/Madrid:20261006T160000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd0b8d57d11a6e1dda94375df7d79898a13c782@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261006T160000
+DTEND;TZID=Europe/Madrid:20261006T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4389fcfd3c655fbb391338e7bce08c4d0e566956@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261006T170000
+DTEND;TZID=Europe/Madrid:20261006T180000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:f8622614f903ed66438f2508832a282aa2e9228e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261006T180000
+DTEND;TZID=Europe/Madrid:20261006T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:627d33642dedf1a48071223ea6190cbbf33f1e7d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261007T103000
+DTEND;TZID=Europe/Madrid:20261007T133000
+SUMMARY:Introducció a les Ciències de la Salut · Pràctiques de laborato
+ ri
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M0-127\nText del PDF: ICS-PLAB1-G 11 M0-127.9 (Aula Inf.3)
+LOCATION:M0-127
+END:VEVENT
+BEGIN:VEVENT
+UID:d012db5d7527dd5166d505ceb420149f3178a6b8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261007T150000
+DTEND;TZID=Europe/Madrid:20261007T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:eb621d5098a1df019c6a045345ee567e250173a3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261007T160000
+DTEND;TZID=Europe/Madrid:20261007T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0102fada30cded9fbe4ed245b0aea0f5752acf96@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261007T170000
+DTEND;TZID=Europe/Madrid:20261007T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T3 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:b46ca1422b0cbc291057468bccff5cbc61704808@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261007T180000
+DTEND;TZID=Europe/Madrid:20261007T190000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0dbb65e3f55ddfb64b1748f3a940c951f27b7e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T093000
+DTEND;TZID=Europe/Madrid:20261008T113000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: AHI-DISS1- G 11 S.Disecció
+END:VEVENT
+BEGIN:VEVENT
+UID:d1fde3a74b95c8776f528a6a789e95cf7cde5573@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T113000
+DTEND;TZID=Europe/Madrid:20261008T133000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA-S1-G 11 M0.127.5
+END:VEVENT
+BEGIN:VEVENT
+UID:cd9d6efd70b7b81b4d74aec3b2fa9bd0ab56d99e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T150000
+DTEND;TZID=Europe/Madrid:20261008T160000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2d26e11206a683989a82f9f5702719691e1261@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T160000
+DTEND;TZID=Europe/Madrid:20261008T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:d53f8dbc98334b29634647538360f2b10139e73a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T170000
+DTEND;TZID=Europe/Madrid:20261008T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T3 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:be1197097908c21e44cf09cf7fc158e11747ea11@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261008T180000
+DTEND;TZID=Europe/Madrid:20261008T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:cda9ecc5713ebb5f04f6739e4b0fe272e9a444bb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261009T103000
+DTEND;TZID=Europe/Madrid:20261009T133000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-117\nText del PDF: BF-PLAB2-G 11 Lab M6-117
+LOCATION:M6-117
+END:VEVENT
+BEGIN:VEVENT
+UID:c672062ad340688d5de2b74f8df7d3eb937c04fd@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261009T150000
+DTEND;TZID=Europe/Madrid:20261009T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2c850e7776c8f73072f8c210be1496902d95ff51@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261009T160000
+DTEND;TZID=Europe/Madrid:20261009T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T3 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4eafe370eb8c61125cf22fdfadf7d05652da04b9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261009T170000
+DTEND;TZID=Europe/Madrid:20261009T180000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfe13011b3266a5d18eee847334b9cc8a8ac66e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261013T093000
+DTEND;TZID=Europe/Madrid:20261013T113000
+SUMMARY:BFS1-G 11 M2-001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-001\nText del PDF: BFS1-G 11 M2-001
+LOCATION:M2-001
+END:VEVENT
+BEGIN:VEVENT
+UID:e8591811a2f32d135f85f191530f6900e81651e7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261013T150000
+DTEND;TZID=Europe/Madrid:20261013T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T3 Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:8eadd0883d499f882db7ebb7587d1abe0fdb8360@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261013T160000
+DTEND;TZID=Europe/Madrid:20261013T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5597120bec420dbfc00c7bcbe3f67990681efa@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261013T170000
+DTEND;TZID=Europe/Madrid:20261013T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:d0796a1f61aad8add83a04b91c39b5cbb8bf2bd0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261013T180000
+DTEND;TZID=Europe/Madrid:20261013T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:15c021eb52d86d9d7a3b2c48360a6e4711b9afc0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261014T150000
+DTEND;TZID=Europe/Madrid:20261014T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:96be7b2ee574d33963983f295d89261241c6e4ff@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261014T160000
+DTEND;TZID=Europe/Madrid:20261014T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc3ed475a173c09ce9b48721a111f9b5fe39215@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261014T170000
+DTEND;TZID=Europe/Madrid:20261014T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b9620d671b5ba88882fbe4dc0bfd2877563f0e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261015T110000
+DTEND;TZID=Europe/Madrid:20261015T133000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M0-111\nText del PDF: BF-PLAB1-G 11 M0-111B
+LOCATION:M0-111
+END:VEVENT
+BEGIN:VEVENT
+UID:8b46f43b8adffa45d4dc7861ec3741f7e771b10c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261015T150000
+DTEND;TZID=Europe/Madrid:20261015T160000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:baeb69d096c42f125da070eee149b58a5ee65692@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261015T160000
+DTEND;TZID=Europe/Madrid:20261015T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6dbf968d21ac1a1c07ae83bd6af837fcdded8dc5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261015T170000
+DTEND;TZID=Europe/Madrid:20261015T180000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:62ddf39ca1040b2f5a2ad1f379fe80b93ecfd641@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261016T093000
+DTEND;TZID=Europe/Madrid:20261016T113000
+SUMMARY:B P1-P2- G6 M6-002
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-002\nText del PDF: B P1-P2- G6 M6-002
+LOCATION:M6-002
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0507a922e97ea311cd48e048f8ef740d60125c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261016T113000
+DTEND;TZID=Europe/Madrid:20261016T123000
+SUMMARY:BP2- G6 M6- 002
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-002\nText del PDF: BP2- G6 M6- 002
+LOCATION:M6-002
+END:VEVENT
+BEGIN:VEVENT
+UID:ebec0030062bb359e71f6b77853883ff83cd4bc5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261016T150000
+DTEND;TZID=Europe/Madrid:20261016T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f304739393c4e4076d9674ec870f4116c4b2a420@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261016T160000
+DTEND;TZID=Europe/Madrid:20261016T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ed604a42791af0b4d03a0fb1e47cf3a150466bb4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261016T170000
+DTEND;TZID=Europe/Madrid:20261016T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9466599b525f7c26552042e4f4139bf7c2425d92@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261019T093000
+DTEND;TZID=Europe/Madrid:20261019T113000
+SUMMARY:BFS3-G 11 j-32
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BFS3-G 11 j-32
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1500d4602ce9de9294f3958490814d33515767@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261019T113000
+DTEND;TZID=Europe/Madrid:20261019T133000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHI-SEM4- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:fa1382435e92fb841f5a083f7ac3846259dce0fc@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261019T150000
+DTEND;TZID=Europe/Madrid:20261019T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT5
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT5BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:a736d558e122c4ec3daf371b38bfd8774adb037c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261019T170000
+DTEND;TZID=Europe/Madrid:20261019T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:be6c9ca3c402ee6274d179bd520df4e411e75a59@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261019T180000
+DTEND;TZID=Europe/Madrid:20261019T190000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:16aafaf3634fa978995f016f1e1b46ffd5df30d4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261020T150000
+DTEND;TZID=Europe/Madrid:20261020T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0c84f16858c36d9738071e85b4f6d3c6378d91da@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261020T160000
+DTEND;TZID=Europe/Madrid:20261020T170000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9bbe55c53ac6029cb250af635460ffd9cb13f635@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261021T093000
+DTEND;TZID=Europe/Madrid:20261021T113000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA-S2-G 11 M0.127.5
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad7ad8f189e309f57218cd1712dce5706b45130@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261021T113000
+DTEND;TZID=Europe/Madrid:20261021T133000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: AHI-DISS2- G 11 S.Disecció
+END:VEVENT
+BEGIN:VEVENT
+UID:39cbcde1e2be966a46d2888962aaed680bbefcd6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261021T150000
+DTEND;TZID=Europe/Madrid:20261021T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT6
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT6BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:94199d7ad6d99b2c9257c36f3cca318bbdc2ce45@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261021T170000
+DTEND;TZID=Europe/Madrid:20261021T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3f3aab02d0f7ed46bd7334e32e9cc00b49709d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261021T180000
+DTEND;TZID=Europe/Madrid:20261021T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:326be7468c646497aa3fc8335f68358da5d96714@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261026T150000
+DTEND;TZID=Europe/Madrid:20261026T190000
+SUMMARY:Biologia Cel·lular · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M3-217\, M3-216\nText del P
+ DF: 102954 - Biologia Cel.lular Examen 1r Parcial 15-19h M5/001\, M5/003\,
+  M5/007\, M2/002\, M3- 217\, M3-216
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M3-217\, M3-216
+END:VEVENT
+BEGIN:VEVENT
+UID:b2265fbc938e6882988aee65e07c7761cfa2967a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261029T090000
+DTEND;TZID=Europe/Madrid:20261029T140000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Examen 1r parc
+ ial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014\nText del P
+ DF: 103592 - Anatomia Humana: Generalitats i Aparell Locomotor Examen 1r P
+ arcial 9-14h M5/001\, M5/003\, M5/007\, M2/002\, M5- 005\, M4-014
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5fb6a49c974766e678f313357ed6d50e3d5dd4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261102T150000
+DTEND;TZID=Europe/Madrid:20261102T190000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Examen
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06\nText del PDF: EX
+ AMEN PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01\, M
+ 5-03\, M5- 07\, M2-02\, M5-05\, M5-06 Horari: 15-19 h
+LOCATION:M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06
+END:VEVENT
+BEGIN:VEVENT
+UID:282f6531082bd3f7ef14bbdc74738bbe427fb95d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261103T093000
+DTEND;TZID=Europe/Madrid:20261103T113000
+SUMMARY:Biologia Cel·lular · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: BC-SEM1-G 11 M4-001 BC-SEM1-G 12 M2-001
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:679c67d56fb476a1cad97aa51363b1a8e4ffdc58@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261103T113000
+DTEND;TZID=Europe/Madrid:20261103T133000
+SUMMARY:Pràctica Clínica Assistencial I · Pràctiques d'aula
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-014\nText del PDF: PCA- PAUL1-G6 M4-014
+LOCATION:M4-014
+END:VEVENT
+BEGIN:VEVENT
+UID:d6803826c09e9b36dd1853b5494935877d02eaf1@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261103T150000
+DTEND;TZID=Europe/Madrid:20261103T160000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6f608d904cc82549af59981f531205637382dd20@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261103T160000
+DTEND;TZID=Europe/Madrid:20261103T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f35aafcc0052169f18757d8f19048d020a69e95b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261103T170000
+DTEND;TZID=Europe/Madrid:20261103T180000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ce399121eace863f70c28a794f9e3fc5f5387e92@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261104T150000
+DTEND;TZID=Europe/Madrid:20261104T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1d49e4d9f3c1a345b0035fe7e0dd8df0b8f34963@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261104T160000
+DTEND;TZID=Europe/Madrid:20261104T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f744faa360b84c5232f29f215d37f5aa4fc69628@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261104T170000
+DTEND;TZID=Europe/Madrid:20261104T180000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:15382c71637a5e90bd0e84a856f72c59bbb26343@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261105T093000
+DTEND;TZID=Europe/Madrid:20261105T130000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB3-G BP311 -G6Aula Inf. 2 M5-BE-PLAB3-G 12 006 Au
+ la Inf. 3
+END:VEVENT
+BEGIN:VEVENT
+UID:fff9a4dad2cf3cc18b18f4e09071ec7b37b294ef@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261105T150000
+DTEND;TZID=Europe/Madrid:20261105T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3fa0527991eb4ead2a41ac021846c82d46eb1b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261105T160000
+DTEND;TZID=Europe/Madrid:20261105T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc1f0d61422ded9f758afd1fc38dd5fd3954bc6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261105T170000
+DTEND;TZID=Europe/Madrid:20261105T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:72268d1f0a08b0e8b55cb5828d676f86df7bea80@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261106T093000
+DTEND;TZID=Europe/Madrid:20261106T113000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA-S3-G 11 M0.127.5
+END:VEVENT
+BEGIN:VEVENT
+UID:05a7ce23057c1d00ca0c60c2ed17c5e3dfc57c91@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261106T113000
+DTEND;TZID=Europe/Madrid:20261106T133000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM2- S1-G 11 BIB2
+END:VEVENT
+BEGIN:VEVENT
+UID:c16eb5222c419d641f477fee9448a395f1ad8292@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261106T150000
+DTEND;TZID=Europe/Madrid:20261106T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba0b679cc01bef5315120e8148b9d0d0b0d6998@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261106T160000
+DTEND;TZID=Europe/Madrid:20261106T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:082209fc4d6f715877b0fed363f6671b2c546667@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261106T170000
+DTEND;TZID=Europe/Madrid:20261106T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:5e58bfec65e842150ee3704863a2c1472f42a387@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261109T150000
+DTEND;TZID=Europe/Madrid:20261109T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT7
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT7BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3733939e4ab263543e47774b0cac7f21703cd8a7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261109T170000
+DTEND;TZID=Europe/Madrid:20261109T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6306b148e60cf8aec927382aafcb980250b86121@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261109T180000
+DTEND;TZID=Europe/Madrid:20261109T190000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:3247d68f5ac1c609689b2071adbedc0b4628f37d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261110T100000
+DTEND;TZID=Europe/Madrid:20261110T133000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M0-111\nText del PDF: BF-PLAB3-G 11 M0-111B
+LOCATION:M0-111
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5804544ab3ad822bcbbc65fcee9cb2042ec654@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261110T150000
+DTEND;TZID=Europe/Madrid:20261110T160000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9e9321e87b8edabc6bcfee21542317c446bb6f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261110T160000
+DTEND;TZID=Europe/Madrid:20261110T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6a2e4f01df8ded81987406b513b2f6e23c50c81b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261110T170000
+DTEND;TZID=Europe/Madrid:20261110T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1919ab2e7e2bffc5990ea6871e76a40f70e74b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261111T090000
+DTEND;TZID=Europe/Madrid:20261111T200000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA I VISITA ALS CAP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:3641bea51c23bafa5c151ec4cc004c323f0d2070@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261112T150000
+DTEND;TZID=Europe/Madrid:20261112T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:503b51a871adf26baa0a5791f62ebb03aab5fc5e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261112T160000
+DTEND;TZID=Europe/Madrid:20261112T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ICS-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad898e3c9f26839e9e7cea10106ecf4b4a223d3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261112T170000
+DTEND;TZID=Europe/Madrid:20261112T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:75a952e1451fc3cc2382a4431c0ec39f3aaf1d39@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261113T150000
+DTEND;TZID=Europe/Madrid:20261113T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:bd409d1b6b94f6f42def99b8eeae698919de4581@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261113T160000
+DTEND;TZID=Europe/Madrid:20261113T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:64c38518248cff996ced81275cd5ecdf23ca32d7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261113T170000
+DTEND;TZID=Europe/Madrid:20261113T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c00c1a744b430ba2706665d3ab5307d2c91b8553@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T093000
+DTEND;TZID=Europe/Madrid:20261117T113000
+SUMMARY:Biologia Cel·lular · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: BC-SEM2-G 11 M4-BIB1 BC-SEM2-G 12 M5-005
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:062e37d1a53c3e3204fa285ade805ec3574327b6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T113000
+DTEND;TZID=Europe/Madrid:20261117T133000
+SUMMARY:Pràctica Clínica Assistencial I · Pràctiques d'aula
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-002\nText del PDF: PCA- PAUL2-G6 M4-002
+LOCATION:M4-002
+END:VEVENT
+BEGIN:VEVENT
+UID:8577f9579860cacb8c9cb809b40d0c3987b9109f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T150000
+DTEND;TZID=Europe/Madrid:20261117T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6e086f947467feb161d08f4a6b597769ad9a09b5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T160000
+DTEND;TZID=Europe/Madrid:20261117T170000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9820d929373c53c3cc60d3e401250dbf5182575d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T170000
+DTEND;TZID=Europe/Madrid:20261117T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f570d1cd219531a86f703e49ead99536e39ed490@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261117T180000
+DTEND;TZID=Europe/Madrid:20261117T190000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:288256df18b9e96a5f9468f8c5cb15dcbfb87cda@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261118T090000
+DTEND;TZID=Europe/Madrid:20261118T200000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA I VISITA ALS CAP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:a685ce68ae8fd66317435131e8911eebbdf90dcb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261119T093000
+DTEND;TZID=Europe/Madrid:20261119T133000
+SUMMARY:Biologia Cel·lular · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-013\nText del PDF: BC-PLAB2-G 11 Lab M4-013
+LOCATION:M4-013
+END:VEVENT
+BEGIN:VEVENT
+UID:811cee4ccbc5b47afae28d478e81d33d1585113d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261119T150000
+DTEND;TZID=Europe/Madrid:20261119T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:7110a23c3a1085941a6b7e9e9eb0f50ba4b6d453@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261119T160000
+DTEND;TZID=Europe/Madrid:20261119T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:af1aa868ef47dbda45a1dfee7e46ecef4512ea04@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261119T170000
+DTEND;TZID=Europe/Madrid:20261119T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c10e1077186290558f84fadca7987cd59697dc5e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261120T090000
+DTEND;TZID=Europe/Madrid:20261120T140000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Pràctiques de labo
+ ratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-125\nText del PDF: BQ-PLAB2-G 11 Lab M6-125 BQ-PLAB2-G 12 La
+ b M6-125
+LOCATION:M6-125
+END:VEVENT
+BEGIN:VEVENT
+UID:55fb480875de2713f21f8a0a9a44a65a414c8571@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261120T150000
+DTEND;TZID=Europe/Madrid:20261120T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:89b2f97731ee4888c6fbc5c25097b07360da6752@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261120T160000
+DTEND;TZID=Europe/Madrid:20261120T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:cfad2bf6645315c48563e9b648b2195dafab91a7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261120T170000
+DTEND;TZID=Europe/Madrid:20261120T180000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c62dc9f116e6c2849c9fd995069aaffb05673cc6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261123T150000
+DTEND;TZID=Europe/Madrid:20261123T160000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3407c7dbbd5b061ea7ce5242d9400392b79185@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261123T160000
+DTEND;TZID=Europe/Madrid:20261123T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5d1e28be998062b13d8ef1552ee27f2baca699@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261123T170000
+DTEND;TZID=Europe/Madrid:20261123T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2a03f6ed583fad5b6e3923b1e694fd31a0e5b9e8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261124T150000
+DTEND;TZID=Europe/Madrid:20261124T160000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff695897685abe639826684438dacb35fb4109d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261124T160000
+DTEND;TZID=Europe/Madrid:20261124T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:a89500cca40acf19b08b833fcba1fefd3d769d50@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261124T170000
+DTEND;TZID=Europe/Madrid:20261124T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:d4818fc9163f99630f40bea4b2665111b7a85fa0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261125T090000
+DTEND;TZID=Europe/Madrid:20261125T200000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA I VISITA ALS CAP 3
+END:VEVENT
+BEGIN:VEVENT
+UID:3832fc2a6448ce6f1b8b7a65ba9dc8184f72dfb9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261126T093000
+DTEND;TZID=Europe/Madrid:20261126T113000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: AHI-DISS3- G 11 S.Disecció
+END:VEVENT
+BEGIN:VEVENT
+UID:3721117929a42c94b85084cf0430d1ba3c9427ed@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261126T113000
+DTEND;TZID=Europe/Madrid:20261126T133000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM2- S2-G 11 BIB2
+END:VEVENT
+BEGIN:VEVENT
+UID:2363dca008962a8122d6f89ed1883d259c0b9b08@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261126T150000
+DTEND;TZID=Europe/Madrid:20261126T160000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BQ-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:b7fd041c34ad9c94e57b33ed5a05b7ed827687dd@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261126T160000
+DTEND;TZID=Europe/Madrid:20261126T170000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:d49babd4cea80a9c14424469baf078f92eb360a1@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261126T170000
+DTEND;TZID=Europe/Madrid:20261126T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2a383222a0c432f119c9981967c63572082db03e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261127T150000
+DTEND;TZID=Europe/Madrid:20261127T160000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c59621eabb2b80c7675a79309c9b53e0cff891@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261127T160000
+DTEND;TZID=Europe/Madrid:20261127T170000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:e0faeddaee264635ace77d07c5545bcae3643fca@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261127T170000
+DTEND;TZID=Europe/Madrid:20261127T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AHI-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:8f24459cde33638417e033da37b418bc768c578d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261130T150000
+DTEND;TZID=Europe/Madrid:20261130T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT8
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT8BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee7114936e976e052531bd3e028ccafbdb0e366@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261130T170000
+DTEND;TZID=Europe/Madrid:20261130T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f294af4caa34b5962f708d8379f73004b0456b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261201T150000
+DTEND;TZID=Europe/Madrid:20261201T160000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:38c34bab01f46b023cdbe118587e28ca196ee458@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261201T160000
+DTEND;TZID=Europe/Madrid:20261201T170000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:783b77a0e9fc1fc139c8c1a44397efc9583420d6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261202T090000
+DTEND;TZID=Europe/Madrid:20261202T200000
+SUMMARY:Pràctica Clínica Assistencial I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: PCA I VISITA ALS CAP 4
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf40bc44c83522c60c9476707b82647ee7962d7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261203T093000
+DTEND;TZID=Europe/Madrid:20261203T113000
+SUMMARY:B P3-P4- G6 M5-005
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: B P3-P4- G6 M5-005
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c0037fe180b07329aa931bee77dc92b0287807@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261203T113000
+DTEND;TZID=Europe/Madrid:20261203T133000
+SUMMARY:Pràctica Clínica Assistencial I · Pràctiques d'aula
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: PCA- PAUL3-G6 M5-005
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:89d9daff1d85c82881dc966451ba4eee09bf5cc8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261203T150000
+DTEND;TZID=Europe/Madrid:20261203T170000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · SAT9
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: SAT9BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e6482263978851ba7669775dd9b4866e1e5d6a0b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261203T170000
+DTEND;TZID=Europe/Madrid:20261203T180000
+SUMMARY:Biologia Cel·lular · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BC-T Aula M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:174b624cf7656cc738d66da9fc8bbfc87129bb19@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261203T180000
+DTEND;TZID=Europe/Madrid:20261203T190000
+SUMMARY:Introducció a les Ciències de la Salut · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: ICS-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:bbac62157ebd4943196cab60a3e65360c05df55d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261204T093000
+DTEND;TZID=Europe/Madrid:20261204T113000
+SUMMARY:Introducció a les Ciències de la Salut · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: ICS-SEM2- S3-G 11 BIB1
+END:VEVENT
+BEGIN:VEVENT
+UID:812739a3e481c56a0a84a84b1c9be4b021e1f50e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261204T113000
+DTEND;TZID=Europe/Madrid:20261204T133000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: AHI-DISS4- G 11 S.Disecció
+END:VEVENT
+BEGIN:VEVENT
+UID:113f0eefbe0a0970ab88bbb5a01cc9c700d2ea66@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261209T150000
+DTEND;TZID=Europe/Madrid:20261209T190000
+SUMMARY:Biofísica · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M6-001\nText del PDF: 1r PA
+ RCIAL 102962 BIOFÍSICA 15-19h M5/001\, M5/003\, M5/007\, M2/002\, M6- 001
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M6-001
+END:VEVENT
+BEGIN:VEVENT
+UID:eafc23522a5a8ca7e5834a4a8799c1e766db90b0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261210T150000
+DTEND;TZID=Europe/Madrid:20261210T183000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB4-G BP4-11 G6Aula Inf. 2 M5-BE-PLAB4-G 00512 Aul
+ a Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6dbc94e5d3c376bd7704033c477df9b10ec49011@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261211T093000
+DTEND;TZID=Europe/Madrid:20261211T133000
+SUMMARY:Biologia Cel·lular · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-013\nText del PDF: BC-PLAB3-G 11 Lab M4-013
+LOCATION:M4-013
+END:VEVENT
+BEGIN:VEVENT
+UID:78f28c4ab32137652eeaf0d4017e8724ee40b39d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261214T150000
+DTEND;TZID=Europe/Madrid:20261214T180000
+SUMMARY:106719 PCA I 1r PARCIAL 15-18h M5/001\, M5/003\, M5/007\, M2/002\, 
+ M6-001 · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M6-001\nText del PDF: 10671
+ 9 PCA I 1r PARCIAL 15-18h M5/001\, M5/003\, M5/007\, M2/002\, M6-001
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M6-001
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd8828165ea0075f79108a7a1cf9ded648a80b1@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261216T150000
+DTEND;TZID=Europe/Madrid:20261216T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Examen 2n parc
+ ial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014\nText del P
+ DF: 103592 EXAMEN ANATOMIA HUMANA: GENERALITATS I APARELL LOCOMOTOR 15-18h
+  Examen 2n Parcial TEÒRIC M5/001\, M5/003\, M5/007\, M2/002\, M5- 005\, M
+ 4-014
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014
+END:VEVENT
+BEGIN:VEVENT
+UID:79b4e6128da2d4c3d94cc7c2fdef6d8bb8f81dd6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261218T150000
+DTEND;TZID=Europe/Madrid:20261218T180000
+SUMMARY:Anatomia Humana: Generalitats i Aparell Locomotor · Examen 2n parc
+ ial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014\nText del P
+ DF: 103592 EXAMEN ANATOMIA HUMANA: GENERALITATS I APARELL LOCOMOTOR 15-18h
+  Examen 2n Parcial PRÀCTIC M5/001\, M5/003\, M5/007\, M2/002\, M5- 005\, 
+ M4-014
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M5-005\, M4-014
+END:VEVENT
+BEGIN:VEVENT
+UID:10cd745d24e64af591b00a34f1c359ad6110f5d0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20261222T090000
+DTEND;TZID=Europe/Madrid:20261222T140000
+SUMMARY:ICS 1r PARCIAL 9-14h M5/001\, M5/003\, M5/007\, M2/002\, M6-001 · 
+ Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/003\, M5/007\, M2/002\, M6-001\nText del PDF: ICS 1
+ r PARCIAL 9-14h M5/001\, M5/003\, M5/007\, M2/002\, M6-001
+LOCATION:M5/001\, M5/003\, M5/007\, M2/002\, M6-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c849f75b6288c298d022008ff75276434d0ccce5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270201T150000
+DTEND;TZID=Europe/Madrid:20270201T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: H-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:ca4629fcbd7685df211aafa3bc7780757e85c872@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270201T160000
+DTEND;TZID=Europe/Madrid:20270201T170000
+SUMMARY:Aprenentatge Integrat de Medicina I · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: AIMI-T4 Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:6311ae9ba61b9ec072f1a9ed38cef62787d9bae4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270201T170000
+DTEND;TZID=Europe/Madrid:20270201T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BF-T4 Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:635233095daa51a37aa538eacbb39b8013d437d0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270201T180000
+DTEND;TZID=Europe/Madrid:20270201T190000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-001\nText del PDF: BE-T Aula: M5-001
+LOCATION:M5-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4658e5b6cb98e4f6553ecdcbb4041cd0f4184bfc@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270202T150000
+DTEND;TZID=Europe/Madrid:20270202T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:b70331e6ae7a6bb250d0001f218106240ea7f615@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270202T160000
+DTEND;TZID=Europe/Madrid:20270202T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:bef9baf6c2a498e0a2a9bf69523875f3747345db@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270202T170000
+DTEND;TZID=Europe/Madrid:20270202T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:a3de33cded45299fd718afceb603d57bac3848ad@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270202T180000
+DTEND;TZID=Europe/Madrid:20270202T190000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e5a534aacfdcca67d62f75fd32790a0e4511f7b5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270203T100000
+DTEND;TZID=Europe/Madrid:20270203T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 1.1-G 11 M4-001 AIMI 1.1-G 12 M4-002
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d02cd079b8c67345020e3175d32cc2430762a9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270203T150000
+DTEND;TZID=Europe/Madrid:20270203T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ffd30f289ecdcca89282e8ec251c21f463d538@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270203T160000
+DTEND;TZID=Europe/Madrid:20270203T170000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ca96dae10a7998f50e7218c1cb2bfdabd60e9a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270203T170000
+DTEND;TZID=Europe/Madrid:20270203T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:70ad66650049e0d47dfbca69b657d253a5f46fee@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270204T150000
+DTEND;TZID=Europe/Madrid:20270204T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e7087662ae9e1e6a1134cd38757dfdad5cc05735@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270204T160000
+DTEND;TZID=Europe/Madrid:20270204T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:1a26003e4fa3d7a71a401070193d4ac7e2127650@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270204T170000
+DTEND;TZID=Europe/Madrid:20270204T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c860d55eba349005aa67b37e63c5e1872945532b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270205T150000
+DTEND;TZID=Europe/Madrid:20270205T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:34955bd2eb0511b8a863ebb173086d86704d67e3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270205T160000
+DTEND;TZID=Europe/Madrid:20270205T170000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:8155891d59f27bf36eef6c1a239c6c62e43af920@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270208T150000
+DTEND;TZID=Europe/Madrid:20270208T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:62835e19707a0459fc4bbec18ada9abdf324319c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270208T160000
+DTEND;TZID=Europe/Madrid:20270208T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9c962d68cac735d66efbf2f298e815a50c2f31e6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270208T170000
+DTEND;TZID=Europe/Madrid:20270208T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d23127cb2328ab0168971b2cc978d4246dce56cc@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270209T150000
+DTEND;TZID=Europe/Madrid:20270209T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: H-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:b07b5be80ae853b7f56dba01ee0b0e37c643cf41@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270209T160000
+DTEND;TZID=Europe/Madrid:20270209T180000
+SUMMARY:la: M5/003 BP5- G6 M5- 005
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: la: M5/003 BP5- G6 M5- 005
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:40b8cd21d8ec2c30e6e0e4b9e9a96a9eb5b390bb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270210T103000
+DTEND;TZID=Europe/Madrid:20270210T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-002\nText del PDF: AIMI 1.2-G 11 M4-002
+LOCATION:M4-002
+END:VEVENT
+BEGIN:VEVENT
+UID:9008590a377523186dbfc853d09e3d2e06b50c39@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270210T150000
+DTEND;TZID=Europe/Madrid:20270210T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea5b1c20f7c572faaa264d0012b5a625fa869b0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270210T160000
+DTEND;TZID=Europe/Madrid:20270210T170000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:67c86a95120cde545fb36fb98ff595e659639713@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270210T170000
+DTEND;TZID=Europe/Madrid:20270210T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:5d86a7c267cccb5622620a129090cc9314bf741c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270211T103000
+DTEND;TZID=Europe/Madrid:20270211T133000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB5- BP6-G 11 G6Aula Inf. 1 M5- BE-PLAB5- 005G 12 
+ Aula Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:66575f302ec801d61e3e5c1ee0bf26a29ddfed6e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270211T150000
+DTEND;TZID=Europe/Madrid:20270211T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6995fb6b0f8b2f0f903c524af09deb64d6cef0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270211T160000
+DTEND;TZID=Europe/Madrid:20270211T170000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:599f4c25234f449e9379ea3f4e2d83fdacdde4d2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270211T170000
+DTEND;TZID=Europe/Madrid:20270211T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:b3554b9656eb32dfb5b0022afda006ce9ff7cce9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270212T093000
+DTEND;TZID=Europe/Madrid:20270212T113000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHII-SEM1- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:71851bd9843ee3472a9ddd57a683e59bf6732079@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270212T113000
+DTEND;TZID=Europe/Madrid:20270212T133000
+SUMMARY:Histologia · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-009\nText del PDF: H-PLAB1- G 11 M4-009
+LOCATION:M4-009
+END:VEVENT
+BEGIN:VEVENT
+UID:160f584ca6da31486195ec80dcf8a60d2bf7817c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270212T150000
+DTEND;TZID=Europe/Madrid:20270212T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e84ab4be0d6c195846096e470aa9d9d023c8bdc5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270212T160000
+DTEND;TZID=Europe/Madrid:20270212T170000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:2a19ebfbfe314ac41068fd6ec7c3603706a4e227@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270212T170000
+DTEND;TZID=Europe/Madrid:20270212T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb37ac6cc779be300aa6b51021c2ebd8e6ff3b6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270215T150000
+DTEND;TZID=Europe/Madrid:20270215T160000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1516f954027763b6031882f0c7aa5af1aae8ce@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270215T160000
+DTEND;TZID=Europe/Madrid:20270215T170000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:98befd5011e5e28df5889b9f9644ac8a51c20d62@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270216T093000
+DTEND;TZID=Europe/Madrid:20270216T113000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHII-SEM2- G 11 M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:c84a8db45ced53f389845c85f60da7280aeb95aa@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270216T150000
+DTEND;TZID=Europe/Madrid:20270216T170000
+SUMMARY:Bioquímica Metabòlica · SAT1
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT1
+END:VEVENT
+BEGIN:VEVENT
+UID:f149fe975b5b778c30a7d428a6c02638fb0aafd2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270216T170000
+DTEND;TZID=Europe/Madrid:20270216T180000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B1 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:1d091589dabd26a6bcf161edadd6f72e2db405cf@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270216T180000
+DTEND;TZID=Europe/Madrid:20270216T190000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6c88d0d531161e412cc83fe3955f0c9a913cbc@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270217T103000
+DTEND;TZID=Europe/Madrid:20270217T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 1.3-G 11 M4-001
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:55d0755ff11e820e27e7b7ea9a793f591b401731@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270217T150000
+DTEND;TZID=Europe/Madrid:20270217T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:1e389b268066ad3089832afe8105eac5a91161e2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270217T160000
+DTEND;TZID=Europe/Madrid:20270217T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8c09fdfa2e8fbc948e9e308d84f8b6ded39850@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270217T170000
+DTEND;TZID=Europe/Madrid:20270217T180000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BE-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d9fa6391260b249896518399dc9a537cfb07b11e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270218T150000
+DTEND;TZID=Europe/Madrid:20270218T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:89a3228d335fb5d3140e90306cab5f0e4eaa2c3e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270218T160000
+DTEND;TZID=Europe/Madrid:20270218T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:0a231244e81f4506b3d5a6fc39628ae18e374564@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270219T150000
+DTEND;TZID=Europe/Madrid:20270219T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f178904033fb67a569e10a3d88acaa7df0ecbf@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270219T160000
+DTEND;TZID=Europe/Madrid:20270219T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:22c18569d4ddd9ac87f08cfc882cff95dff82e67@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270222T150000
+DTEND;TZID=Europe/Madrid:20270222T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:5218354e48be229fc0e18944264845e40f542c8f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270222T160000
+DTEND;TZID=Europe/Madrid:20270222T170000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: H-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:4661bcfc75e61951421818c1cf9e84d45307b200@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270222T170000
+DTEND;TZID=Europe/Madrid:20270222T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BF-T4 Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:ba104c7778f4005bda4687fecd45787592852fe4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270223T113000
+DTEND;TZID=Europe/Madrid:20270223T133000
+SUMMARY:Histologia · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-009\nText del PDF: H-PLAB2- G 11 M4-009
+LOCATION:M4-009
+END:VEVENT
+BEGIN:VEVENT
+UID:77855105338906875c88152a7b7391a72367ad2a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270223T150000
+DTEND;TZID=Europe/Madrid:20270223T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: H-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:bfed8252c50b00315f72a1410c2b81bd8ef17b9e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270223T160000
+DTEND;TZID=Europe/Madrid:20270223T170000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:8b74226431e1470799cfa2a9879e4656c86200b4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270223T170000
+DTEND;TZID=Europe/Madrid:20270223T180000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:72c2c48b279268af4260d1545c6331a1bf8dc630@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270224T103000
+DTEND;TZID=Europe/Madrid:20270224T113000
+SUMMARY:BP7- G6 M4- 002
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-002\nText del PDF: BP7- G6 M4- 002
+LOCATION:M4-002
+END:VEVENT
+BEGIN:VEVENT
+UID:648a3a3c73ca013fb5035a0fbf011e17ab3a37d3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270224T113000
+DTEND;TZID=Europe/Madrid:20270224T133000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB6- G 11 Aula Inf. 1 BE-PLAB6- G 12 Aula Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2a70536893f7ff10e84125aee959c38cbe596076@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270224T150000
+DTEND;TZID=Europe/Madrid:20270224T170000
+SUMMARY:Bioquímica Metabòlica · SAT2
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT2
+END:VEVENT
+BEGIN:VEVENT
+UID:82b98b4a0951bfe574cd0af38222a8496ff6f03b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270224T170000
+DTEND;TZID=Europe/Madrid:20270224T180000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: H-T Aula M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:06c2ef5759efd4f785eec03327c76289cd3fc43f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270224T180000
+DTEND;TZID=Europe/Madrid:20270224T190000
+SUMMARY:Bioestadística · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BE-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:a1be609a08b3271ab3546018c9257c2f31c7fe81@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270225T100000
+DTEND;TZID=Europe/Madrid:20270225T110000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: AHII-T Aula: M5/003AHII-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:aec734a1ac984d57e22f0a65497cfcb2195c0e4b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270225T110000
+DTEND;TZID=Europe/Madrid:20270225T120000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003FG-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0c615053dbe6ed9ecbf174294493d8b38d969e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270225T120000
+DTEND;TZID=Europe/Madrid:20270225T200000
+SUMMARY:JORNADES CLÍNIQUES
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: JORNADES CLÍNIQUES
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b1974c806fd2d4a1a16006cd41f0f0938644a1@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270226T090000
+DTEND;TZID=Europe/Madrid:20270226T200000
+SUMMARY:JORNADES CLÍNIQUES
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: JORNADES CLÍNIQUES
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e1163eea8b6edf152f2dd4ba518dbf55cc1ab5@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270301T150000
+DTEND;TZID=Europe/Madrid:20270301T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:318a583b7ec8516bedc7b9e3d65ae3e588277d78@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270301T160000
+DTEND;TZID=Europe/Madrid:20270301T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:f31a60895bf7463fd0d57a6d9c0521a5a6b6c4ec@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270302T103000
+DTEND;TZID=Europe/Madrid:20270302T120000
+SUMMARY:BFS4-1 G 11 M2-001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-001\nText del PDF: BFS4-1 G 11 M2-001
+LOCATION:M2-001
+END:VEVENT
+BEGIN:VEVENT
+UID:cfb860b71b4205264bfcaf7546d360d88aac2c93@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270302T150000
+DTEND;TZID=Europe/Madrid:20270302T170000
+SUMMARY:Bioquímica Metabòlica · SAT3
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT3
+END:VEVENT
+BEGIN:VEVENT
+UID:c777a012285a8b93c963f6ed1f39bd2acb9399ec@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270302T170000
+DTEND;TZID=Europe/Madrid:20270302T180000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B2 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:70733be24d2da1aa141fd5f801f28ebe73eb1b44@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270302T180000
+DTEND;TZID=Europe/Madrid:20270302T190000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:48018d2c9cc7b0b22b549a9799e73075ee44a2d0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270303T090000
+DTEND;TZID=Europe/Madrid:20270303T120000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB7- BP8-G 11 G6Aula Inf. 1 M5- BE-PLAB7- 005G 12 
+ Aula Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfc0ebf19a3613c20f69cdf5efb9aad04f0e724@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270303T150000
+DTEND;TZID=Europe/Madrid:20270303T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:43156d9573abe9484983d87928832a2d2018594a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270303T160000
+DTEND;TZID=Europe/Madrid:20270303T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:3da82b6d94939abf42a0caab38bcaa32960e43b2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270303T170000
+DTEND;TZID=Europe/Madrid:20270303T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:3d350196a9ea5c6c2d1fc0719db01a76a25617c8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270304T150000
+DTEND;TZID=Europe/Madrid:20270304T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:08f47bc7220cf1c14bbed17a90344895adbcd974@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270304T160000
+DTEND;TZID=Europe/Madrid:20270304T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:5481aac887c805edec4f3b5d6bd73005b2b89501@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270304T170000
+DTEND;TZID=Europe/Madrid:20270304T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f8efcd2f287ca9985217b848b27c4d3431a48b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270305T110000
+DTEND;TZID=Europe/Madrid:20270305T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 2.1-G 11 M4-001 AIMI 2.1-G 12 M6-004
+  AIMI 2.1-G 13 M0-127.5
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:4fd96a1dd77b232c6bff5dfad1d2e1058af619ce@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270305T150000
+DTEND;TZID=Europe/Madrid:20270305T160000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:49cd632665c3f4e2e2179d5edf523bbf921e1d24@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270305T160000
+DTEND;TZID=Europe/Madrid:20270305T170000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:06cbda0fbddce1aed9714b7679b5afd5a6ec6e35@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270309T093000
+DTEND;TZID=Europe/Madrid:20270309T113000
+SUMMARY:Histologia · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-009\nText del PDF: H-PLAB3- G 11 M4-009
+LOCATION:M4-009
+END:VEVENT
+BEGIN:VEVENT
+UID:b9661ed74e7df2ea22964de9cb5fb617a637d88a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270309T113000
+DTEND;TZID=Europe/Madrid:20270309T133000
+SUMMARY:BFS4-2 G 11 M5-005
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: BFS4-2 G 11 M5-005
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:7aac396d4bf428f440f0c72e2239b2c89b2430c7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270309T150000
+DTEND;TZID=Europe/Madrid:20270309T160000
+SUMMARY:ula: M5/001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: ula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9914ae540b7b8215c61b7f628b520371cad68251@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270310T093000
+DTEND;TZID=Europe/Madrid:20270310T133000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-004\nText del PDF: AHII-SEM3-AHII- G 11DISS1-G 11 M6-004S.Di
+ ss. AHII-DISS1-AHII-SEM3- G 12G 12 S.Diss.M6-004
+LOCATION:M6-004
+END:VEVENT
+BEGIN:VEVENT
+UID:702412a94e528bff0e8b82a22e47253edd7830ac@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270310T150000
+DTEND;TZID=Europe/Madrid:20270310T160000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:540a7c23c05638cdf48acb591c02167df7bbcb39@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270310T160000
+DTEND;TZID=Europe/Madrid:20270310T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T4 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d64dc46750aeacc9b61bbc2b3be2128a1b98cb06@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270310T170000
+DTEND;TZID=Europe/Madrid:20270310T180000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:de9af79b62d7d4bbe1ee8277fbafa5309ebe23ea@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270311T090000
+DTEND;TZID=Europe/Madrid:20270311T110000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: AHII- DISS2-G 11 S.Diss.
+END:VEVENT
+BEGIN:VEVENT
+UID:746b96157e7613406b5e74fadfb025b4079b1e8c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270311T110000
+DTEND;TZID=Europe/Madrid:20270311T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 2.2-G 11 M4-001 AIMI 2.2-G 12 BIB1 A
+ IMI 2.2-G 13 BIB2
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:eeeadc045f3482870b021723b043b400d113c77d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270311T150000
+DTEND;TZID=Europe/Madrid:20270311T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c57a5b0e41037a322003088ef50878b33885957e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270311T160000
+DTEND;TZID=Europe/Madrid:20270311T170000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:e363ab548b48156765fb94cd79d9acc15970b9ce@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270312T113000
+DTEND;TZID=Europe/Madrid:20270312T133000
+SUMMARY:BFS5-G 11 M2-001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-001\nText del PDF: BFS5-G 11 M2-001
+LOCATION:M2-001
+END:VEVENT
+BEGIN:VEVENT
+UID:8d199750e62c53cea5f00297986044bc100d9e98@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270315T150000
+DTEND;TZID=Europe/Madrid:20270315T160000
+SUMMARY:/001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: /001
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf44539ccb52c9cca0866eba381ea559733566a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270316T150000
+DTEND;TZID=Europe/Madrid:20270316T170000
+SUMMARY:Bioquímica Metabòlica · SAT4
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT4
+END:VEVENT
+BEGIN:VEVENT
+UID:b571bddf657b9bfd8df5c10936466e22c6561410@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270317T103000
+DTEND;TZID=Europe/Madrid:20270317T130000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 2.3-G 11 M4-001 AIMI 2.3-G 12 M4-002
+  AIMI 2.3-G 13 M6-004
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:0495e21c4f8515da1688f478928af7da0126fdad@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270317T160000
+DTEND;TZID=Europe/Madrid:20270317T193000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-011\nText del PDF: BF-PLAB4-G 11 M2-011
+LOCATION:M2-011
+END:VEVENT
+BEGIN:VEVENT
+UID:52814f4ffc6a3ede111bb36a7159babbe0fcdd7f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270318T113000
+DTEND;TZID=Europe/Madrid:20270318T133000
+SUMMARY:Bioestadística · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BE-PLAB8- G 11 Aula Inf. 1 BE-PLAB8- G 12 Aula Inf. 2
+END:VEVENT
+BEGIN:VEVENT
+UID:4a68d209de69de08e9a8b80dfcf3a1dbab83f4a9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270318T150000
+DTEND;TZID=Europe/Madrid:20270318T170000
+SUMMARY:B Q M B Q M
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: B Q M B Q M
+END:VEVENT
+BEGIN:VEVENT
+UID:039686d35fe6cdfbc403e85dc5d0d92613f6b6d3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270319T093000
+DTEND;TZID=Europe/Madrid:20270319T133000
+SUMMARY:Bioquímica Metabòlica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-125\nText del PDF: BQM-PLAB1-G 11 Lab M6-125 BQM-PLAB1-G 12 
+ Lab M6-125
+LOCATION:M6-125
+END:VEVENT
+BEGIN:VEVENT
+UID:9adc3352e87d8d6a4126ab0a2ffa8f3756a70988@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270319T150000
+DTEND;TZID=Europe/Madrid:20270319T180000
+SUMMARY:Fisiologia General · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-005\nText del PDF: FG-PLAB1-G 11 M4-005 FG-PLAB1-G 12 M4-005
+LOCATION:M4-005
+END:VEVENT
+BEGIN:VEVENT
+UID:1593f048dd156ba18be06de8a019bf1cfece6fb6@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270330T150000
+DTEND;TZID=Europe/Madrid:20270330T190000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/007\, M2/002\, M5-005\, M5-006\nText del PDF: 10359
+ 2 EXAMEN ANATOMIA HUMANA -II: CARDIOVASCULAR CAP I COLL 15-19h Examen 1r P
+ arcial M5/001\, M5/001\, M5/007\, M2/002\, M5- 005\, M5-006
+LOCATION:M5/001\, M5/007\, M2/002\, M5-005\, M5-006
+END:VEVENT
+BEGIN:VEVENT
+UID:3c3b34c6507a78274d048d1a6705101b425eb40a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270402T090000
+DTEND;TZID=Europe/Madrid:20270402T120000
+SUMMARY:Bioquímica Metabòlica · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06\nText del PDF: EX
+ AMEN 1r PARCIAL 103596-Bioquímica Metabòlica M5-01\, M5-03\, M5- 07\, M2
+ -02\, M5-05\, M5-06 Horari: 9-12 h
+LOCATION:M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06
+END:VEVENT
+BEGIN:VEVENT
+UID:9a983d1f0e9fe0cd80a54e2e21d8cf770b7ecee2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270405T150000
+DTEND;TZID=Europe/Madrid:20270405T190000
+SUMMARY:Biofísica · Examen 2n parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/007\, M2/002\, M6-001\nText del PDF: 2n PARCIAL 102
+ 962 BIOFÍSICA 15-19h M5/001\, M5/001\, M5/007\, M2/002\, M6-001
+LOCATION:M5/001\, M5/007\, M2/002\, M6-001
+END:VEVENT
+BEGIN:VEVENT
+UID:493415f53194a38263735087b14f6399bac7df37@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270407T090000
+DTEND;TZID=Europe/Madrid:20270407T180000
+SUMMARY:Bioestadística · Examen 2n parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: 2n PARCIAL_Pràctic 102974 BIOESTADÍSTICA Horari: 9-18
+ h Aules informàtiques
+END:VEVENT
+BEGIN:VEVENT
+UID:c7406c83b6d7ebbe6c5fdfb45c89e46038b2653c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270408T090000
+DTEND;TZID=Europe/Madrid:20270408T140000
+SUMMARY:Bioestadística · Examen 2n parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/007\, M2/002\, M5-005\, M5-006\nText del PDF: 2n PA
+ RCIAL Teòric 102974 BIOESTADÍSTICA Horari: 9-14h M5/001\, M5/001\, M5/00
+ 7\, M2/002\, M5-005\, M5-006
+LOCATION:M5/001\, M5/007\, M2/002\, M5-005\, M5-006
+END:VEVENT
+BEGIN:VEVENT
+UID:9d744aac250efce315271616a50ffb58e6dcad5e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270412T150000
+DTEND;TZID=Europe/Madrid:20270412T190000
+SUMMARY:Fisiologia General · Examen 1r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/007\, M2/002\, M5-005\, M5-006\nText del PDF: Exame
+ n 1r Parcial 106730 Fisiologia General Horari: 15-19h M5/001\, M5/001\, M5
+ /007\, M2/002\, M5-005\, M5-006
+LOCATION:M5/001\, M5/007\, M2/002\, M5-005\, M5-006
+END:VEVENT
+BEGIN:VEVENT
+UID:78da38955e70d5ac40b802582b13f5fc6cb5906c@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270413T150000
+DTEND;TZID=Europe/Madrid:20270413T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:36277a8ada62ed948699714629d2b6c12d0b07bc@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270413T160000
+DTEND;TZID=Europe/Madrid:20270413T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T7 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:508a310ae4ee40e90aed090d883c567d4f92298e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270413T170000
+DTEND;TZID=Europe/Madrid:20270413T180000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:bfe8ed97f79fe0838caec860b3e24280b1490e37@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270413T180000
+DTEND;TZID=Europe/Madrid:20270413T190000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:6fade9d832987b1f510aa94675aad16dec3db4d3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270414T150000
+DTEND;TZID=Europe/Madrid:20270414T160000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:ee98e52e1263205389d783ce75b57408f4f137c0@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270414T160000
+DTEND;TZID=Europe/Madrid:20270414T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:be7183ee6df3178c0d82bcc51e3e39e82ef91789@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270414T170000
+DTEND;TZID=Europe/Madrid:20270414T180000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:372366db25695e27bea682f02c0952c5a04db06d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270414T180000
+DTEND;TZID=Europe/Madrid:20270414T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T7 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:f51429eb8b954e44c98ac79493689408e5c253c3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270415T110000
+DTEND;TZID=Europe/Madrid:20270415T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 3.1-G 11 M4-001 AIMI 3.1-G 12 BIB1 A
+ IMI 3.1-G 13 BIB2
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:cac0d285e756459155f760e12bcf4ff16054aabe@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270415T150000
+DTEND;TZID=Europe/Madrid:20270415T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:980cd71f7d4a8b16bea104285165986a0bee2dcd@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270415T160000
+DTEND;TZID=Europe/Madrid:20270415T170000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T7 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0b064cf6abaad536ea0d09c8df086d51b6d4f7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270415T170000
+DTEND;TZID=Europe/Madrid:20270415T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:212ab354140d23e68f702ea6cc547042027c66c9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270415T180000
+DTEND;TZID=Europe/Madrid:20270415T190000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbe7f3fbb541a37a182abab2888ba9416201d3b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270416T150000
+DTEND;TZID=Europe/Madrid:20270416T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4e90a43e7eeeee72b4df4ab0b98695ff26eabb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270416T160000
+DTEND;TZID=Europe/Madrid:20270416T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:303f0a6675455706ba3aa9765d7c46c13e48b9bd@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270416T170000
+DTEND;TZID=Europe/Madrid:20270416T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0a1e06222f4793e3d7efa85a59b2e8cca6d676@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270416T180000
+DTEND;TZID=Europe/Madrid:20270416T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T7 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d57d0d3cc223c478e5092c3e9ee1aae6b59bb300@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270419T150000
+DTEND;TZID=Europe/Madrid:20270419T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: AHII-T B3 Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:45fc6400ea1a2f688ce85f177da522cc8f7c44f4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270419T160000
+DTEND;TZID=Europe/Madrid:20270419T170000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: FG-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:e9690d81fce81b478b042a2383b127127ea08a94@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270419T170000
+DTEND;TZID=Europe/Madrid:20270419T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BF-T6 Aula M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:38dcfa22e00c54f7c9bf9022b2092447fd12be17@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270419T180000
+DTEND;TZID=Europe/Madrid:20270419T190000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/003\nText del PDF: BQM-T Aula: M5/003
+LOCATION:M5/003
+END:VEVENT
+BEGIN:VEVENT
+UID:59f807fddeb04d2ca19ed125b0117050af469e66@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270420T100000
+DTEND;TZID=Europe/Madrid:20270420T120000
+SUMMARY:Bioquímica Metabòlica · Pràctiques d'aula
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: BQM- PAUL1- G6 M5-005
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:0178081d8199562714455dad8e2ac3439edc37d1@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270420T120000
+DTEND;TZID=Europe/Madrid:20270420T160000
+SUMMARY:LA COMUNITÀRIA UAB 12:00-16:00h
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: LA COMUNITÀRIA UAB 12:00-16:00h
+END:VEVENT
+BEGIN:VEVENT
+UID:60e02e7d38d769afb035a648a6ca2da2b0c4f195@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270420T160000
+DTEND;TZID=Europe/Madrid:20270420T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7ac4779119b62cdf5888f186a0b97769f8c46f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270420T170000
+DTEND;TZID=Europe/Madrid:20270420T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:63518b330473ab65fededa5860a0cec83026b376@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270420T180000
+DTEND;TZID=Europe/Madrid:20270420T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T6 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:8969f7e0314ae9289f4fa677c802747a9d23404e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270421T093000
+DTEND;TZID=Europe/Madrid:20270421T133000
+SUMMARY:Bioquímica Metabòlica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-125\nText del PDF: BQM-PLAB2-G 11 Lab M6-125 BQM-PLAB2-G 12 
+ Lab M6-125
+LOCATION:M6-125
+END:VEVENT
+BEGIN:VEVENT
+UID:3413a2829e3b5ce3aaa79d5fc6f5ef361bcce0ca@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270421T150000
+DTEND;TZID=Europe/Madrid:20270421T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:38bf84e3b8ff74ec572745a39a00375c2a32516b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270421T160000
+DTEND;TZID=Europe/Madrid:20270421T170000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:1511541e0c87a57e6a9c9f6cd37c4f468c54bbea@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270421T170000
+DTEND;TZID=Europe/Madrid:20270421T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T6 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:a25134ab8972ec2e8a0f207684a216793d961f67@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270421T180000
+DTEND;TZID=Europe/Madrid:20270421T190000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:4111ec6e5687c1c1b6b6ee35901ead72a4dba177@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270422T110000
+DTEND;TZID=Europe/Madrid:20270422T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 3.2-G 11 M4-001 AIMI 3.2-G 12 BIB1 A
+ IMI 3.2-G 13 BIB2
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:effd4c8bd97b7ef98bdb75d10e907bdebebeb893@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270422T150000
+DTEND;TZID=Europe/Madrid:20270422T170000
+SUMMARY:Bioquímica Metabòlica · SAT6
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT6
+END:VEVENT
+BEGIN:VEVENT
+UID:1b920cc3cc97aae85350d46d6120568784ec6ad4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270422T170000
+DTEND;TZID=Europe/Madrid:20270422T180000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T6 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:689cfe83700877fe514483cd5a771ad4850abc8e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270422T180000
+DTEND;TZID=Europe/Madrid:20270422T190000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:abbbeab0dea04abf5408a4425d87202f7083084a@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270423T110000
+DTEND;TZID=Europe/Madrid:20270423T133000
+SUMMARY:Fisiologia General · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-006\nText del PDF: FG-PLAB2-G 11 M4-006 FG-PLAB2-G 12 M4-006
+LOCATION:M4-006
+END:VEVENT
+BEGIN:VEVENT
+UID:59f3893b075372931fd9f82faa6c99933dc878c4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270423T150000
+DTEND;TZID=Europe/Madrid:20270423T170000
+SUMMARY:Bioquímica Metabòlica · SAT7
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT7
+END:VEVENT
+BEGIN:VEVENT
+UID:a465e7c8f24bad6e5f61df6908a52d47cdb26055@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270423T170000
+DTEND;TZID=Europe/Madrid:20270423T180000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c0062a03249247750be1e05ab8195620677d6992@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270423T180000
+DTEND;TZID=Europe/Madrid:20270423T190000
+SUMMARY:Biofísica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BF-T6 Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:7239a9ac65a985f0fed1093272943f9a6467c2fd@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270426T150000
+DTEND;TZID=Europe/Madrid:20270426T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:fe970e268efcb32e6d5c55c99e005eabaff7ecf8@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270426T160000
+DTEND;TZID=Europe/Madrid:20270426T170000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7f13ad6f1178bd3097a3609e267802b75b7991@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270426T170000
+DTEND;TZID=Europe/Madrid:20270426T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:66aa68f531c8c201ec594f80b473dfe87def0bdb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270427T093000
+DTEND;TZID=Europe/Madrid:20270427T113000
+SUMMARY:Histologia · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-009\nText del PDF: H-PLAB4- G 11 M4-009
+LOCATION:M4-009
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb7141dbb55def5ab403b4eca278e67bf68d1e9@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270427T113000
+DTEND;TZID=Europe/Madrid:20270427T130000
+SUMMARY:BFS7-G 11 M2-001
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-001\nText del PDF: BFS7-G 11 M2-001
+LOCATION:M2-001
+END:VEVENT
+BEGIN:VEVENT
+UID:10497f2a7ff2694103fe7241ae6e862576079733@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270427T150000
+DTEND;TZID=Europe/Madrid:20270427T160000
+SUMMARY:Histologia · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: H-T Aula M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:77c75e32ae00c94d9e7739bba3478876292497b2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270427T160000
+DTEND;TZID=Europe/Madrid:20270427T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:47d52884114f09cc7bfd4ff7d4bfb54e3a314b15@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270427T170000
+DTEND;TZID=Europe/Madrid:20270427T180000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b0146355f3ae3a39eb91ada6871cb675a7434e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270428T150000
+DTEND;TZID=Europe/Madrid:20270428T160000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:5394f4467b86a8ecf3694dd5c1985826db55002f@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270428T160000
+DTEND;TZID=Europe/Madrid:20270428T170000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:d85a5728f45737dfa27738a29eecdd72415d53db@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270428T170000
+DTEND;TZID=Europe/Madrid:20270428T180000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:2cde7bf4d7f6f1d8c5578fb57c952218add221ca@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270429T110000
+DTEND;TZID=Europe/Madrid:20270429T133000
+SUMMARY:Aprenentatge Integrat de Medicina I
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-001\nText del PDF: AIMI 3.3-G 11 M4-001 AIMI 3.3-G 12 M4-002
+  AIMI 3.3-G 13 M4-014
+LOCATION:M4-001
+END:VEVENT
+BEGIN:VEVENT
+UID:be02c5aa7282edba5f40bc8c24e4cd768401999e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270429T150000
+DTEND;TZID=Europe/Madrid:20270429T160000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:3060c1009556b29aaeca5c59d89f0e74bd8f7cfb@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270429T160000
+DTEND;TZID=Europe/Madrid:20270429T170000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:9202e97d99d9f5ce5633fd32babfae61cf862874@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270429T170000
+DTEND;TZID=Europe/Madrid:20270429T180000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c546a5605bff667ac80658892440de6591aedcb3@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270430T150000
+DTEND;TZID=Europe/Madrid:20270430T170000
+SUMMARY:Bioquímica Metabòlica · SAT8
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT8
+END:VEVENT
+BEGIN:VEVENT
+UID:680cd11ea7ac2bdcf0aeedb09831fc8a483ca987@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270430T170000
+DTEND;TZID=Europe/Madrid:20270430T180000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: AHII-T B3 Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0fa34c9ee5ac7170b0a451b6b67c7de0b33652@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270430T180000
+DTEND;TZID=Europe/Madrid:20270430T190000
+SUMMARY:Fisiologia General · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: FG-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:04ee223dd5b7b700096aaa47432fe506a3b26f99@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270503T150000
+DTEND;TZID=Europe/Madrid:20270503T190000
+SUMMARY:Anatomia Humana: Cardiovascular\, Cap i Coll · Seminari
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-005\nText del PDF: AHII-AHII-SEM4- DISS3-G 11G 11 S.Diss.M5-
+ 005 AHII- AHII-SEM4- G 12DISS3-G 12 M5-005S.Diss.
+LOCATION:M5-005
+END:VEVENT
+BEGIN:VEVENT
+UID:e93cd5642c86366b60d0680857bb8b29e3e8d62e@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270504T103000
+DTEND;TZID=Europe/Madrid:20270504T133000
+SUMMARY:Fisiologia General · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-006\nText del PDF: FG-PLAB3-G 11 M4-006 FG-PLAB3-G 12 M4-006
+LOCATION:M4-006
+END:VEVENT
+BEGIN:VEVENT
+UID:4f327ea3ead6db05611fb8da351b933d7ec9f638@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270504T170000
+DTEND;TZID=Europe/Madrid:20270504T190000
+SUMMARY:Bioquímica Metabòlica · Teoria
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\nText del PDF: BQM-T Aula: M5/001 BQM-T Aula: M5/001
+LOCATION:M5/001
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e180fdd7cbc19d0ac6ad242fde4c45efe7453b@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270505T110000
+DTEND;TZID=Europe/Madrid:20270505T133000
+SUMMARY:Biofísica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M2-011\nText del PDF: BF-PLAB5-G 11 M2-011
+LOCATION:M2-011
+END:VEVENT
+BEGIN:VEVENT
+UID:bd296044ba62e26c64d3ab1bb2d8fbe9226be2a2@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270505T150000
+DTEND;TZID=Europe/Madrid:20270505T190000
+SUMMARY:Bioquímica Metabòlica · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M6-126\nText del PDF: BQM-PLAB3-G 11 Lab M6-126 BQM-PLAB3-G 12 
+ Lab M6-126
+LOCATION:M6-126
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd206f7e768a19ad3233a1d8f5ad57722725ed4@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270506T093000
+DTEND;TZID=Europe/Madrid:20270506T113000
+SUMMARY:Histologia · Pràctiques de laboratori
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-009\nText del PDF: H-PLAB5- G 11 M4-009
+LOCATION:M4-009
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f214e6eb84926ceafff3033a39b9cc1707bada@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270506T113000
+DTEND;TZID=Europe/Madrid:20270506T130000
+SUMMARY:BFS6-G 11 M0/111B
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M0/111\nText del PDF: BFS6-G 11 M0/111B
+LOCATION:M0/111
+END:VEVENT
+BEGIN:VEVENT
+UID:fcdb99b1a206fd7151a5da5cbac0d4b70e222b4d@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270506T150000
+DTEND;TZID=Europe/Madrid:20270506T170000
+SUMMARY:Bioquímica Metabòlica · SAT9
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT9
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ff06e0ae003834cd035470ba40e4408f84d1f7@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270507T150000
+DTEND;TZID=Europe/Madrid:20270507T170000
+SUMMARY:Bioquímica Metabòlica · SAT10
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nText del PDF: BQM SAT 10
+END:VEVENT
+BEGIN:VEVENT
+UID:31d94e57c1bdeba7306e58885dd33d1356350378@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270510T150000
+DTEND;TZID=Europe/Madrid:20270510T190000
+SUMMARY:Bioquímica Estructural i Biologia Molecular · Examen 2n parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06\nText del PDF: EX
+ AMEN 2n PARCIAL 103596-Bioquímica Estructural i Biologia Molecular M5-01\
+ , M5-03\, M5- 07\, M2-02\, M5-05\, M5-06 Horari: 15-19 h
+LOCATION:M5-01\, M5-03\, M5-07\, M2-02\, M5-05\, M5-06
+END:VEVENT
+BEGIN:VEVENT
+UID:81f8cc4d9337f88933de34708961fee32054c6be@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270518T150000
+DTEND;TZID=Europe/Madrid:20270518T190000
+SUMMARY:Histologia · Examen de microscopis
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M4-010\nText del PDF: Examen Microscopis 106731 Histologia 15-1
+ 9h M4-010
+LOCATION:M4-010
+END:VEVENT
+BEGIN:VEVENT
+UID:358756f085fbc1c4e20bf886cb60ab1a8bb82cba@horaris-uab
+DTSTAMP:20261110T173118Z
+DTSTART;TZID=Europe/Madrid:20270520T150000
+DTEND;TZID=Europe/Madrid:20270520T190000
+SUMMARY:Biofísica · Examen 3r parcial
+DESCRIPTION:Grau en Medicina · 1r curs (Bellaterra) · Subgrup G11 (grup 1
+ 03)\nAula: M5/001\, M5/007\, M2/002\, M6-001\nText del PDF: 3r PARCIAL 102
+ 962 BIOFÍSICA 15-19h M5/001\, M5/001\, M5/007\, M2/002\, M6-001
+LOCATION:M5/001\, M5/007\, M2/002\, M6-001
+END:VEVENT
+END:VCALENDAR

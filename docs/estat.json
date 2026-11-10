@@ -1,7 +1,11 @@
 {
  "_comprovat": "2026-11-10",
  "uab/medicina-1": {
-  "canviat": "2026-11-10T13:40+00:00",
-  "sha256": "323ec7c74b1d94498668e6a55760d66b1b03f16e8ce2829e66f0329320b97649"
+  "canviat": "2026-11-10T17:31+00:00",
+  "sha256": "ffc6b2aea1f64f23dd59f8c50665af0a4ae90bbd143de57e2a953aad5417542a"
+ },
+ "uab/veterinaria-3": {
+  "canviat": "2026-11-10T17:31+00:00",
+  "sha256": "84c0cac0813e795358307deda2160c4513e5245fc74b52d86e065a67b514ec2a"
  }
 }
