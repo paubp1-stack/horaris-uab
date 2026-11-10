@@ -2,7 +2,7 @@ name: Actualitza horaris
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minuts (GitHub pot endarrerir-ho uns minuts)
+    - cron: "17 5 * * *"
   workflow_dispatch:          # botó "Run workflow" per executar-lo a mà
 
 permissions:
