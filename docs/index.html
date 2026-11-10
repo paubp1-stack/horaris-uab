@@ -20,8 +20,8 @@
 </head>
 <body>
 <h1>Els horaris de la universitat, al teu Google Calendar</h1>
-<p>Tria la teva titulació i grup. Quan la universitat canviï el PDF d'horaris,
-el teu calendari s'actualitzarà sol.</p>
+<p>Tria la teva titulació i grup. Cada dia es revisa el PDF d'horaris de la
+universitat i, si ha canviat, el teu calendari s'actualitza sol.</p>
 
 <label for="tit">Titulació</label>
 <select id="tit"></select>
@@ -39,9 +39,10 @@ el teu calendari s'actualitzarà sol.</p>
  </div>
 
  <div class="card">
-  <h2>2 · Actualització ràpida (cada 30 minuts)</h2>
-  <p>Funciona amb un petit script al teu compte de Google. És gratuït i només
-  toca el calendari que crea ell. <b>No ho facis si ja has fet l'opció 1</b>
+  <h2>2 · Actualització més ràpida</h2>
+  <p>Funciona amb un petit script al teu compte de Google: el mateix dia que
+  canvia l'horari, el teu calendari ja està al dia. És gratuït i només toca el
+  calendari que crea ell. <b>No ho facis si ja has fet l'opció 1</b>
   (tindries les classes repetides).</p>
   <ol>
    <li><button class="btn sec" id="copiaScript">Copia l'script</button> (ja porta el teu grup posat)</li>
@@ -80,7 +81,7 @@ function grupActual() {
 
 function omplirGrups() {
   const [t] = grupActual();
-  $('grup').innerHTML = t.grups.map(g => `<option>${g.grup}</option>`).join('');
+  $('grup').innerHTML = t.grups.map(g => `<option value="${g.grup}">${g.nom || g.grup}</option>`).join('');
   mostra();
 }
 

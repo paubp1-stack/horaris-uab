@@ -2,8 +2,8 @@
  * Horaris de la universitat → Google Calendar (actualització automàtica)
  *
  * Aquest script funciona al TEU compte de Google i només toca el calendari
- * que crea ell mateix. Cada 30 minuts mira si l'horari del teu grup ha
- * canviat i actualitza el calendari.
+ * que crea ell mateix. Cada hora mira si l'horari del teu grup ha canviat
+ * i actualitza el calendari.
  *
  * Per activar-lo: desa (icona del disquet), tria la funció "activa" a dalt
  * i clica "Executa". Google et demanarà permís el primer cop.
@@ -20,9 +20,9 @@ function activa() {
   ScriptApp.getProjectTriggers()
     .filter(function (t) { return t.getHandlerFunction() === 'sincronitza'; })
     .forEach(function (t) { ScriptApp.deleteTrigger(t); });
-  ScriptApp.newTrigger('sincronitza').timeBased().everyMinutes(30).create();
+  ScriptApp.newTrigger('sincronitza').timeBased().everyHours(1).create();
   sincronitza();
-  Logger.log('Fet! El calendari s\'actualitzarà sol cada 30 minuts.');
+  Logger.log('Fet! El calendari s\'actualitzarà sol.');
 }
 
 /** Atura l'actualització automàtica (el calendari es queda com està). */
@@ -81,7 +81,7 @@ function sincronitza() {
       creades++;
       if (creades % 25 === 0) Utilities.sleep(1000);  // Google limita les creacions ràpides
     } catch (e) {
-      // Si Google ens frena, la propera execució (d'aquí 30 min) continua.
+      // Si Google ens frena, la propera execució (d'aquí una hora) continua.
       Logger.log('Aturat temporalment: ' + e);
       aturat = true;
     }
@@ -94,7 +94,7 @@ function calendari_(nom) {
   const id = props.getProperty('CALENDARI');
   let cal = id ? CalendarApp.getCalendarById(id) : null;
   if (!cal) {
-    cal = CalendarApp.createCalendar(nom, { color: CalendarApp.Color.GREEN });
+    cal = CalendarApp.createCalendar(nom.slice(0, 100), { color: CalendarApp.Color.GREEN });
     cal.setTimeZone('Europe/Madrid');
     props.setProperty('CALENDARI', cal.getId());
   }

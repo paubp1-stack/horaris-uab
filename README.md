@@ -7,7 +7,7 @@ No cal cap servidor: tot funciona amb GitHub (gratuït).
 ## Com funciona
 
 - **GitHub Actions** (`.github/workflows/actualitza.yml`) executa
-  `genera.py` cada 30 minuts. Baixa cada PDF del catàleg (`fonts.py`) i, si
+  `genera.py` un cop al dia. Baixa cada PDF del catàleg (`fonts.py`) i, si
   ha canviat:
   - genera `docs/cal/<universitat>/<titulació>/<grup>.ics` i `.json`;
   - compara amb la versió anterior i envia un avís al tema de **ntfy** del
@@ -18,7 +18,7 @@ No cal cap servidor: tot funciona amb GitHub (gratuït).
   1. **Afegir l'enllaç .ics** a Google Calendar (un clic; Google el revisa
      tot sol, però pot trigar fins a un dia a mostrar un canvi).
   2. **Actualització ràpida** amb Google Apps Script (`docs/apps-script.js`):
-     un script al seu propi compte que actualitza el calendari cada 30 minuts.
+     un script al seu propi compte que actualitza el calendari cada hora.
   3. **Avisos al mòbil** amb l'app ntfy.
 
 Protecció: si un PDF nou dona menys de la meitat de sessions que l'anterior
@@ -29,7 +29,8 @@ res i l'error queda a `docs/estat.json`.
 
 | Universitat | Titulació | Grups comprovats |
 |---|---|---|
-| UAB | Medicina 1r (Bellaterra) | 104 |
+| UAB | Medicina 1r (Bellaterra) | 104 i subgrups G11, G15, G16b |
+| UAB | Veterinària 3r | teoria 1-2 × subgrups de pràctiques 1aa-6bb |
 
 Cada facultat publica el PDF en un format diferent, així que cada format
 necessita el seu lector a `lectors/`. Per afegir un grau: escriure (o
@@ -49,7 +50,7 @@ reutilitzar) el lector, afegir-lo a `fonts.py` i comprovar-ne els grups.
 
 ## Limitacions de la versió gratuïta
 
-- GitHub pot endarrerir uns minuts les tasques programades.
+- GitHub pot endarrerir les tasques programades (la revisió diària pot arribar una mica més tard).
 - GitHub atura les tasques programades d'un repositori públic després de 60
   dies sense activitat. `genera.py` actualitza `docs/estat.json` un cop al
   dia per evitar-ho.
@@ -68,6 +69,7 @@ python -m http.server -d docs 8000   # http://localhost:8000
 
 - `genera.py` – baixa els PDF, genera els calendaris i envia avisos
 - `lectors/uab_medicina_1r.py` – lector del PDF de Medicina 1r
+- `lectors/uab_veterinaria.py` – lector dels PDF de Veterinària
 - `fonts.py` – catàleg d'universitats, titulacions, URL, grups i temes ntfy
 - `canvis.py` – compara dues versions d'un horari
 - `ics.py` – genera el calendari .ics

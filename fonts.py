@@ -1,10 +1,10 @@
 """Catàleg d'horaris que el servei vigila.
 
-Per afegir un grau nou: afegeix-hi una entrada amb l'URL del PDF, el lector
-que sap llegir aquell format i els grups que s'han comprovat que funcionen.
+Per afegir un grau nou: afegeix-hi una entrada amb l'URL (o URLs) dels PDF, el
+lector que sap llegir aquell format i, si cal, els grups.
 Per afegir una altra universitat, afegeix una clau nova a UNIVERSITATS.
 """
-from lectors import uab_medicina_1r
+from lectors import uab_medicina_1r, uab_veterinaria
 
 UNIVERSITATS = {
     "uab": {
@@ -12,15 +12,29 @@ UNIVERSITATS = {
         "titulacions": {
             "medicina-1": {
                 "nom": "Grau en Medicina · 1r curs (Bellaterra)",
-                "url": "https://www.uab.cat/doc/DOC_HorariMed1_UCMB",
+                "urls": ["https://www.uab.cat/doc/DOC_HorariMed1_UCMB"],
                 "lector": uab_medicina_1r,
-                "grups": ["104"],
-                # tema de ntfy per als avisos: <prefix>-<grup>
-                "ntfy": "horaris-uab-medicina1",
+                "ntfy": "horaris-uab-medicina1",  # tema d'avisos: <prefix>-<grup>
+            },
+            "veterinaria-3": {
+                "nom": "Grau en Veterinària · 3r curs",
+                "urls": ["https://www.uab.cat/ca/veterinaria/doc/vethoraris3r1rsemestre.pdf",
+                         "https://www.uab.cat/ca/veterinaria/doc/vethoraris3r2nsemestre.pdf"],
+                "lector": uab_veterinaria,
+                "ntfy": "horaris-uab-vet3",
             },
         },
     },
 }
+
+
+def grups(tit):
+    return tit.get("grups") or tit["lector"].grups_disponibles()
+
+
+def nom_grup(tit, grup):
+    f = getattr(tit["lector"], "nom_grup", None)
+    return f(grup) if f else f"Grup {grup}"
 
 
 def totes():

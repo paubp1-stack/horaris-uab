@@ -41,7 +41,7 @@ def baixa(url):
 
 
 def tema_ntfy(tit, grup):
-    return f"{tit['ntfy']}-{grup}" if tit.get("ntfy") else None
+    return f"{tit['ntfy']}-{grup}".lower() if tit.get("ntfy") else None
 
 
 def _escriu(cami, text):
@@ -53,23 +53,28 @@ def _escriu(cami, text):
 def processa(id_font, tit, estat, forca, amb_avisos):
     e = estat.setdefault(id_font, {})
     try:
-        pdf = baixa(tit["url"])
+        pdfs = [baixa(u) for u in tit["urls"]]
     except Exception as err:
         e["error"] = f"Error baixant el PDF: {err}"
         print(f"[{id_font}] {e['error']}")
         return
-    sha = hashlib.sha256(pdf).hexdigest()
+    # Empremta: PDF + codi del lector + grups. Si canvia qualsevol cosa, es regenera.
+    lector = Path(tit["lector"].__file__).read_bytes()
+    sha = hashlib.sha256(b"".join(hashlib.sha256(p).digest() for p in pdfs) + lector
+                         + ",".join(fonts.grups(tit)).encode()).hexdigest()
     if not forca and e.get("sha256") == sha:
         e.pop("error", None)
         return
     print(f"[{id_font}] PDF nou o canviat ({sha[:12]})")
     errors = []
-    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as f:
-        f.write(pdf)
-        cami_pdf = f.name
+    camins = []
+    for pdf in pdfs:
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as f:
+            f.write(pdf)
+            camins.append(f.name)
     try:
-        for grup in tit["grups"]:
-            sessions, _ = tit["lector"].llegeix(cami_pdf, grup)
+        for grup in fonts.grups(tit):
+            sessions, _ = tit["lector"].llegeix(camins, grup)
             base = DOCS / "cal" / id_font / grup
             fitxer_json = base.with_suffix(".json")
             abans = None
@@ -82,22 +87,29 @@ def processa(id_font, tit, estat, forca, amb_avisos):
                 print(f"[{id_font}] ATENCIÓ {errors[-1]}. Format nou? No s'actualitza.")
                 continue
             nom = tit["nom"]
+            if not sessions:
+                errors.append(f"grup {grup}: cap sessió")
+                continue
             for s in sessions:
                 s["id"] = ics.id_sessio(id_font, grup, s)
                 s["titol"] = ics.titol(s)
                 s["descripcio"] = ics.descripcio(s, nom, grup)
-            _escriu(base.with_suffix(".ics"), ics.genera(id_font, nom, grup, sessions))
+            nom_g = fonts.nom_grup(tit, grup)
+            for s in sessions:
+                s["descripcio"] = ics.descripcio(s, nom, nom_g)
+            _escriu(base.with_suffix(".ics"), ics.genera(id_font, nom, nom_g, sessions))
             _escriu(fitxer_json, json.dumps(
-                {"titulacio": nom, "grup": grup, "sessions": sessions},
+                {"titulacio": nom, "grup": nom_g, "sessions": sessions},
                 ensure_ascii=False, indent=1))
             c = canvis.compara(abans or [], sessions)
             if abans and canvis.hi_ha_canvis(c):
                 print(f"[{id_font}] grup {grup}:\n{canvis.resum(c, 50)}")
                 if amb_avisos:
-                    avisos.envia(tema_ntfy(tit, grup), f"Canvis d'horari · {nom} · Grup {grup}",
+                    avisos.envia(tema_ntfy(tit, grup), f"Canvis d'horari · {nom} · {nom_g}",
                                  canvis.resum(c), WEB or None)
     finally:
-        os.unlink(cami_pdf)
+        for c in camins:
+            os.unlink(c)
     e["sha256"] = sha
     e["canviat"] = datetime.now(timezone.utc).isoformat(timespec="minutes")
     if errors:
@@ -110,7 +122,8 @@ def cataleg():
     out = []
     for id_font, uni, tit in fonts.totes():
         out.append({"id": id_font, "universitat": uni["nom"], "titulacio": tit["nom"],
-                    "grups": [{"grup": g, "ntfy": tema_ntfy(tit, g)} for g in tit["grups"]]})
+                    "grups": [{"grup": g, "nom": fonts.nom_grup(tit, g), "ntfy": tema_ntfy(tit, g)}
+                              for g in fonts.grups(tit)]})
     return out
 
 

@@ -23,6 +23,7 @@ MESOS = {"gener": 1, "febrer": 2, "març": 3, "abril": 4, "maig": 5, "juny": 6,
 # el 103).
 # NOMÉS VALIDAT PER AL GRUP 104.
 GRUPS = {
+    "103": [["G11", "G12", "G13", "G14"]],
     "104": [["G15", "G16", "G17", "G18"],
             ["G16b", "G17b", "G18b", "G19b", "G20"]],
 }
@@ -199,7 +200,47 @@ def _descriu(text):
     return nom, tipus, aula
 
 
+# Subgrups de pràctiques: (grup de matrícula, fila de la graella)
+SUBGRUPS = {"G11": ("103", "G11"), "G15": ("104", "G15"), "G16b": ("104", "G16b")}
+
+
+def grups_disponibles():
+    return ["104", "G11", "G15", "G16b"]
+
+
+def nom_grup(grup):
+    if grup in SUBGRUPS:
+        return f"Subgrup {grup} (grup {SUBGRUPS[grup][0]})"
+    return f"Grup {grup} (només sessions de tot el grup)"
+
+
 def llegeix(cami_pdf, grup):
+    """grup: '104' (sessions de tot el grup) o un subgrup ('G15'): sessions de
+    tot el seu grup + les pràctiques i seminaris d'aquell subgrup."""
+    if isinstance(cami_pdf, (list, tuple)):
+        cami_pdf = cami_pdf[0]
+    if grup in SUBGRUPS:
+        pare, fila = SUBGRUPS[grup]
+        tot, parcials = _llegeix(cami_pdf, pare)
+        propis = [s for s in parcials if fila in s["subgrups"]]
+        clau = lambda e: (e["dia"], e["inici"], e["text"])
+        return sorted({clau(e): e for e in tot + propis}.values(), key=clau), []
+    return _llegeix(cami_pdf, grup)
+
+
+_CACHE = {}
+
+
+def _llegeix(cami_pdf, grup):
+    import os
+    clau = (cami_pdf, os.path.getmtime(cami_pdf), grup)
+    if clau not in _CACHE:
+        _CACHE[clau] = _llegeix_pdf(cami_pdf, grup)
+    tot, sub = _CACHE[clau]
+    return [dict(s) for s in tot], [dict(s) for s in sub]
+
+
+def _llegeix_pdf(cami_pdf, grup):
     """Retorna (sessions_de_tot_el_grup, sessions_de_subgrups)."""
     blocs_grup = GRUPS[grup]
     esdeveniments, subgrups = [], []

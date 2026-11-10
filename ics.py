@@ -32,7 +32,7 @@ def titol(s):
 
 
 def descripcio(s, nom_titulacio, grup):
-    linies = [f"{nom_titulacio} · Grup {grup}"]
+    linies = [f"{nom_titulacio} · {grup}"]
     if s.get("aula"):
         linies.append(f"Aula: {s['aula']}")
     linies.append(f"Text del PDF: {s['text']}")
@@ -67,7 +67,7 @@ def genera(id_font, nom_titulacio, grup, sessions):
     ara = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     l = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Horaris UAB//CA",
          "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
-         f"X-WR-CALNAME:{_esc(nom_titulacio)} · Grup {grup}",
+         f"X-WR-CALNAME:{_esc(nom_titulacio)} · {_esc(grup)}",
          "X-WR-TIMEZONE:Europe/Madrid",
          "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H"]
     l += VTIMEZONE.split("\n")
