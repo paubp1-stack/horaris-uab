@@ -21,6 +21,7 @@ UNIVERSITATS = {
                 "urls": ["https://www.uab.cat/ca/veterinaria/doc/vethoraris3r1rsemestre.pdf",
                          "https://www.uab.cat/ca/veterinaria/doc/vethoraris3r2nsemestre.pdf"],
                 "lector": uab_veterinaria,
+                "grups": ["T1-5ab", "T2-5ab"],  # teoria 1 o 2 + pràctiques 5ab
                 "ntfy": "horaris-uab-vet3",
             },
         },
