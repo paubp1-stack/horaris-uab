@@ -2,7 +2,10 @@ name: Actualitza horaris
 
 on:
   schedule:
-    - cron: "17 5 * * *"
+    # Cada dia a les 20:00 de Barcelona. GitHub fa servir l'hora UTC, així que
+    # es programa a les 18 i a les 19 UTC i només continua la que cau a les 20 h.
+    - cron: "0 18 * * *"
+    - cron: "0 19 * * *"
   workflow_dispatch:          # botó "Run workflow" per executar-lo a mà
 
 permissions:
@@ -21,12 +24,24 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: Comprova que siguin les 20 h a Barcelona
+        id: hora
+        run: |
+          H=$(TZ=Europe/Madrid date +%H)
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "$H" = "20" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Són les $H h a Barcelona: aquesta execució no toca."
+          fi
       - run: pip install -r requirements.txt
+        if: steps.hora.outputs.ok == 'true'
       - name: Llegeix els PDF i genera els calendaris
+        if: steps.hora.outputs.ok == 'true'
         env:
           WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python genera.py
       - name: Desa els canvis
+        if: steps.hora.outputs.ok == 'true'
         run: |
           git config user.name "horaris-bot"
           git config user.email "horaris-bot@users.noreply.github.com"
