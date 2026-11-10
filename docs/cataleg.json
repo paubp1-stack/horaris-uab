@@ -1,0 +1,13 @@
+[
+ {
+  "id": "uab/medicina-1",
+  "universitat": "Universitat Autònoma de Barcelona",
+  "titulacio": "Grau en Medicina · 1r curs (Bellaterra)",
+  "grups": [
+   {
+    "grup": "104",
+    "ntfy": "horaris-uab-medicina1-104"
+   }
+  ]
+ }
+]

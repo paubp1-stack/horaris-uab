@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Horaris de la universitat al teu Google Calendar</title>
+<style>
+ body{font-family:system-ui,sans-serif;max-width:680px;margin:2rem auto;padding:0 1rem;color:#1d1d1f;line-height:1.5}
+ h1{font-size:1.5rem} h2{font-size:1.1rem;margin:0 0 .4rem}
+ label{display:block;margin-top:1rem;font-weight:600}
+ select{width:100%;padding:.6rem;font-size:1rem;border:1px solid #ccc;border-radius:8px}
+ .btn{display:inline-block;margin:.6rem .4rem 0 0;padding:.6rem 1rem;border-radius:8px;border:0;background:#00694b;color:#fff;font-size:.95rem;text-decoration:none;cursor:pointer}
+ .btn.sec{background:#fff;color:#00694b;border:1px solid #00694b}
+ .card{border:1px solid #e3e3e3;border-radius:12px;padding:1rem 1.2rem;margin-top:1.2rem}
+ code{word-break:break-all;background:#f4f4f4;padding:.15rem .35rem;border-radius:4px}
+ ol{padding-left:1.2rem} li{margin:.3rem 0}
+ small,.nota{color:#666;font-size:.9rem}
+ #res{display:none}
+</style>
+</head>
+<body>
+<h1>Els horaris de la universitat, al teu Google Calendar</h1>
+<p>Tria la teva titulació i grup. Quan la universitat canviï el PDF d'horaris,
+el teu calendari s'actualitzarà sol.</p>
+
+<label for="tit">Titulació</label>
+<select id="tit"></select>
+<label for="grup">Grup</label>
+<select id="grup"></select>
+
+<div id="res">
+ <div class="card">
+  <h2>1 · Afegeix-lo al calendari (el més fàcil)</h2>
+  <p>Un clic i ja el tens. Google revisa l'enllaç tot sol, però pot trigar
+  <b>fins a un dia</b> a mostrar un canvi.</p>
+  <a class="btn" id="gcal" target="_blank" rel="noopener">Afegeix a Google Calendar</a>
+  <button class="btn sec" data-copia="ics">Copia l'enllaç</button>
+  <p class="nota">Serveix també per a Apple Calendar i Outlook: <code id="ics"></code></p>
+ </div>
+
+ <div class="card">
+  <h2>2 · Actualització ràpida (cada 30 minuts)</h2>
+  <p>Funciona amb un petit script al teu compte de Google. És gratuït i només
+  toca el calendari que crea ell. <b>No ho facis si ja has fet l'opció 1</b>
+  (tindries les classes repetides).</p>
+  <ol>
+   <li><button class="btn sec" id="copiaScript">Copia l'script</button> (ja porta el teu grup posat)</li>
+   <li>Obre <a href="https://script.google.com/create" target="_blank" rel="noopener">script.google.com/create</a>,
+       esborra el que hi ha i enganxa-hi l'script.</li>
+   <li>Desa (icona del disquet). A dalt, tria la funció <b>activa</b> i clica <b>Executa</b>.</li>
+   <li>Google et demanarà permís. Com que l'script és teu, sortirà l'avís
+       "Google no ha verificat aquesta aplicació": clica <b>Configuració avançada → Ves a … (no segur)</b> i <b>Permet</b>.</li>
+  </ol>
+  <p class="nota">En un o dos minuts tindràs un calendari nou amb les classes.
+  Els exàmens surten en vermell, amb avís una setmana i un dia abans.</p>
+ </div>
+
+ <div class="card">
+  <h2>3 · Avís al mòbil quan canviï l'horari</h2>
+  <ol>
+   <li>Instal·la l'app gratuïta <b>ntfy</b>
+       (<a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android</a> ·
+        <a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">iPhone</a>).</li>
+   <li>Clica <b>+</b> i subscriu-te al tema <code id="ntfy"></code>
+       <button class="btn sec" data-copia="ntfy">Copia</button></li>
+  </ol>
+ </div>
+ <p class="nota" id="estat"></p>
+</div>
+
+<script>
+const base = location.href.replace(/[^/]*$/, '');
+let cataleg = [], plantilla = '';
+const $ = id => document.getElementById(id);
+
+function grupActual() {
+  const t = cataleg.find(x => x.id === $('tit').value);
+  return [t, t && t.grups.find(g => g.grup === $('grup').value)];
+}
+
+function omplirGrups() {
+  const [t] = grupActual();
+  $('grup').innerHTML = t.grups.map(g => `<option>${g.grup}</option>`).join('');
+  mostra();
+}
+
+function mostra() {
+  const [t, g] = grupActual();
+  if (!g) return;
+  const ics = `${base}cal/${t.id}/${g.grup}.ics`;
+  $('ics').textContent = ics;
+  $('gcal').href = 'https://calendar.google.com/calendar/r?cid=' +
+    encodeURIComponent(ics.replace(/^https?:\/\//, 'webcal://'));
+  $('ntfy').textContent = g.ntfy || '—';
+  $('res').style.display = 'block';
+}
+
+function copia(text, boto) {
+  navigator.clipboard.writeText(text).then(() => {
+    const o = boto.textContent; boto.textContent = 'Copiat ✓';
+    setTimeout(() => boto.textContent = o, 1500);
+  });
+}
+
+document.querySelectorAll('[data-copia]').forEach(b =>
+  b.onclick = () => copia($(b.dataset.copia).textContent, b));
+
+$('copiaScript').onclick = e => {
+  const [t, g] = grupActual();
+  copia(plantilla.replace('ENGANXA_AQUI_EL_TEU_ENLLAC', `${base}cal/${t.id}/${g.grup}.json`), e.target);
+};
+
+Promise.all([
+  fetch('cataleg.json').then(r => r.json()),
+  fetch('apps-script.js').then(r => r.text()),
+  fetch('estat.json').then(r => r.json()).catch(() => ({})),
+]).then(([c, p, estat]) => {
+  cataleg = c; plantilla = p;
+  $('tit').innerHTML = c.map(t => `<option value="${t.id}">${t.universitat} · ${t.titulacio}</option>`).join('');
+  $('tit').onchange = omplirGrups;
+  $('grup').onchange = mostra;
+  omplirGrups();
+  if (estat._comprovat) $('estat').textContent = `Última comprovació dels PDF: ${estat._comprovat}.`;
+});
+</script>
+</body>
+</html>
